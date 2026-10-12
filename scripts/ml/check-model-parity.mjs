@@ -39,26 +39,27 @@ for (const row of golden.rows) {
   else failures.push(`${row.source}: raw hours ${rawHours}, expected ${row.raw_hours}`);
 }
 
-// Post-processing fixtures (clamp, rounding, note text), as in routes_prediction.ts.
+// Post-processing fixtures (clamp, rounding, note text), as in the app's
+// routes/prediction.ts. Both inputs come from the app's own screenshots.
 const fixtures = [
   {
     values: { gas: 224.2, co2: 3232, temperature: 30.5, humidity: 68.3, pressure: 1003.1 },
-    expected: {
-      shelf_life_hours: 120.8,
-      shelf_life_days: 5.03,
-      ripeness_label: "Unripe",
-      ripeness_class: 0,
-      note: "Estimated 5.0 days until overripe (still sellable).",
-    },
-  },
-  {
-    values: { gas: 312.9, co2: 3733, temperature: 28.7, humidity: 82.1, pressure: 1005 },
     expected: {
       shelf_life_hours: 0,
       shelf_life_days: 0,
       ripeness_label: "Overripe",
       ripeness_class: 4,
-      note: "Already overripe. Sell immediately or use for smoothies/cooking.",
+      note: "Consume immediately or discard.",
+    },
+  },
+  {
+    values: { gas: 388.6, co2: 1786, temperature: 31.2, humidity: 68.7, pressure: 1005.1 },
+    expected: {
+      shelf_life_hours: 189.8,
+      shelf_life_days: 7.91,
+      ripeness_label: "Unripe",
+      ripeness_class: 0,
+      note: "Estimated 7.9 days of shelf life remaining.",
     },
   },
 ];

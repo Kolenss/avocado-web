@@ -1,9 +1,10 @@
-// Pure random-forest inference over the JSON trees exported from
-// shelf_life_regressor.joblib. Ported from the original app's
-// routes_prediction.ts, with three fixes so it matches sklearn's predict():
+// Pure random-forest inference over the JSON trees exported from the app's
+// shelf_life_regressor.joblib (origin/revision, April 16 model). Ported from
+// the app's routes/prediction.ts (same note text), matching sklearn's predict():
 //   1. Trees are exported post-order, so the root is the LAST node.
 //   2. sklearn compares float32(x) <= threshold, hence Math.fround.
-//   3. The classifier soft-votes leaf class probabilities (cls_trees_v2.json).
+//   3. The classifier soft-votes leaf class probabilities (cls_trees_v2.json);
+//      on this model it agrees with the app's majority vote on every training row.
 // No imports and erasable TypeScript only: scripts/ml/check-model-parity.mjs
 // runs this file directly with Node's type stripping.
 
@@ -101,13 +102,13 @@ export function runForests(reg: RegForest, cls: ClsForest, values: SensorValues)
 
   let note: string;
   if (days <= 0) {
-    note = "Already overripe. Sell immediately or use for smoothies/cooking.";
+    note = "Consume immediately or discard.";
   } else if (days < 1) {
-    note = `Will become overripe in about ${Math.round(hours)} hours. Sell soon!`;
+    note = `Will last about ${Math.round(hours)} more hours.`;
   } else if (days < 2) {
-    note = "Will become overripe within 1 day. Good time to sell.";
+    note = "Will be at peak ripeness within 1 day.";
   } else {
-    note = `Estimated ${days.toFixed(1)} days until overripe (still sellable).`;
+    note = `Estimated ${days.toFixed(1)} days of shelf life remaining.`;
   }
 
   return {

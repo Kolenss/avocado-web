@@ -6,7 +6,7 @@
   "humidity",
   "pressure"
  ],
- "note": "ripeness_class and raw_hours are sklearn RandomForest predict() outputs from shelf_life_regressor.joblib (origin/hans-test). raw_hours is BEFORE the class>=4 clamp.",
+ "note": "ripeness_class and raw_hours are sklearn RandomForest predict() outputs from shelf_life_regressor.joblib (origin/revision, April 16 model). raw_hours is BEFORE the class>=4 clamp.",
  "rows": [
   {
    "source": "csv line 2",
@@ -19,7 +19,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 195.78
+   "raw_hours": 177.86
   },
   {
    "source": "csv line 3",
@@ -32,7 +32,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 196.02
+   "raw_hours": 193.54
   },
   {
    "source": "csv line 4",
@@ -45,7 +45,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 205.98
+   "raw_hours": 203.96
   },
   {
    "source": "csv line 5",
@@ -58,7 +58,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 206.22
+   "raw_hours": 206.0
   },
   {
    "source": "csv line 6",
@@ -71,7 +71,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 199.98
+   "raw_hours": 206.52
   },
   {
    "source": "csv line 7",
@@ -84,7 +84,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 200.8
+   "raw_hours": 202.2
   },
   {
    "source": "csv line 8",
@@ -97,7 +97,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 181.88
+   "raw_hours": 184.98
   },
   {
    "source": "csv line 9",
@@ -110,7 +110,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 192.14
+   "raw_hours": 192.78
   },
   {
    "source": "csv line 10",
@@ -123,7 +123,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 185.82
+   "raw_hours": 183.42
   },
   {
    "source": "csv line 11",
@@ -136,7 +136,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 201.3
+   "raw_hours": 203.54
   },
   {
    "source": "csv line 12",
@@ -149,7 +149,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 179.97
+   "raw_hours": 178.4
   },
   {
    "source": "csv line 13",
@@ -162,7 +162,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 178.8
+   "raw_hours": 179.92
   },
   {
    "source": "csv line 14",
@@ -175,7 +175,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 201.74
+   "raw_hours": 202.34
   },
   {
    "source": "csv line 15",
@@ -188,7 +188,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 188.92
+   "raw_hours": 139.86
   },
   {
    "source": "csv line 16",
@@ -201,7 +201,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 192.5
+   "raw_hours": 201.56
   },
   {
    "source": "csv line 17",
@@ -214,7 +214,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 194.26
+   "raw_hours": 186.32
   },
   {
    "source": "csv line 18",
@@ -227,7 +227,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 177.93666666666667
+   "raw_hours": 188.5
   },
   {
    "source": "csv line 19",
@@ -240,7 +240,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 188.16
+   "raw_hours": 189.86
   },
   {
    "source": "csv line 20",
@@ -253,7 +253,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 185.57266666666666
+   "raw_hours": 188.52
   },
   {
    "source": "csv line 21",
@@ -266,7 +266,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 198.446
+   "raw_hours": 197.76
   },
   {
    "source": "csv line 22",
@@ -279,7 +279,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 168.2
+   "raw_hours": 141.9
   },
   {
    "source": "csv line 23",
@@ -292,7 +292,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 161.66
+   "raw_hours": 173.5
   },
   {
    "source": "csv line 24",
@@ -305,7 +305,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 180.9
+   "raw_hours": 191.66
   },
   {
    "source": "csv line 25",
@@ -318,7 +318,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 179.86
+   "raw_hours": 161.06
   },
   {
    "source": "csv line 26",
@@ -331,7 +331,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 194.8
+   "raw_hours": 188.92
   },
   {
    "source": "csv line 27",
@@ -344,7 +344,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 183.0
+   "raw_hours": 185.92
   },
   {
    "source": "csv line 28",
@@ -357,7 +357,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 177.2
+   "raw_hours": 172.7
   },
   {
    "source": "csv line 29",
@@ -370,7 +370,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 157.68
+   "raw_hours": 157.38
   },
   {
    "source": "csv line 30",
@@ -383,7 +383,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 163.38
+   "raw_hours": 164.64
   },
   {
    "source": "csv line 31",
@@ -396,7 +396,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 185.28
+   "raw_hours": 144.14
   },
   {
    "source": "csv line 32",
@@ -409,7 +409,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 180.92
+   "raw_hours": 177.78
   },
   {
    "source": "csv line 33",
@@ -422,7 +422,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 169.32
+   "raw_hours": 165.18
   },
   {
    "source": "csv line 34",
@@ -435,7 +435,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 189.5
+   "raw_hours": 187.46
   },
   {
    "source": "csv line 35",
@@ -448,7 +448,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 178.26
+   "raw_hours": 159.26
   },
   {
    "source": "csv line 36",
@@ -461,7 +461,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 187.98
+   "raw_hours": 143.36
   },
   {
    "source": "csv line 37",
@@ -474,7 +474,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 183.52
+   "raw_hours": 183.84
   },
   {
    "source": "csv line 38",
@@ -487,7 +487,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 166.72
+   "raw_hours": 128.14
   },
   {
    "source": "csv line 39",
@@ -500,7 +500,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 183.54
+   "raw_hours": 174.52
   },
   {
    "source": "csv line 40",
@@ -513,7 +513,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 172.2
+   "raw_hours": 170.22
   },
   {
    "source": "csv line 41",
@@ -526,7 +526,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 188.66
+   "raw_hours": 188.04
   },
   {
    "source": "csv line 42",
@@ -539,7 +539,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 172.76
+   "raw_hours": 175.56
   },
   {
    "source": "csv line 43",
@@ -552,7 +552,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 117.945
+   "raw_hours": 129.82
   },
   {
    "source": "csv line 44",
@@ -565,7 +565,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 169.62
+   "raw_hours": 153.36
   },
   {
    "source": "csv line 45",
@@ -578,7 +578,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 181.58
+   "raw_hours": 161.08
   },
   {
    "source": "csv line 46",
@@ -591,7 +591,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 163.69933333333336
+   "raw_hours": 171.38
   },
   {
    "source": "csv line 47",
@@ -604,7 +604,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 169.17
+   "raw_hours": 176.12
   },
   {
    "source": "csv line 48",
@@ -617,7 +617,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 163.5
+   "raw_hours": 165.62
   },
   {
    "source": "csv line 49",
@@ -630,7 +630,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 164.54
+   "raw_hours": 150.48
   },
   {
    "source": "csv line 50",
@@ -643,7 +643,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 161.19333333333333
+   "raw_hours": 162.52
   },
   {
    "source": "csv line 51",
@@ -656,7 +656,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 181.3
+   "raw_hours": 163.02
   },
   {
    "source": "csv line 52",
@@ -669,7 +669,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 172.14
+   "raw_hours": 152.06
   },
   {
    "source": "csv line 53",
@@ -682,7 +682,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 161.42
+   "raw_hours": 153.42
   },
   {
    "source": "csv line 54",
@@ -695,7 +695,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 166.72
+   "raw_hours": 144.3
   },
   {
    "source": "csv line 55",
@@ -708,7 +708,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 178.18
+   "raw_hours": 157.08
   },
   {
    "source": "csv line 56",
@@ -721,7 +721,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 157.18933333333334
+   "raw_hours": 156.98
   },
   {
    "source": "csv line 57",
@@ -734,7 +734,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 167.44
+   "raw_hours": 163.76
   },
   {
    "source": "csv line 58",
@@ -747,7 +747,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 160.28
+   "raw_hours": 157.18
   },
   {
    "source": "csv line 59",
@@ -760,7 +760,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 162.0
+   "raw_hours": 141.94
   },
   {
    "source": "csv line 60",
@@ -773,7 +773,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 176.52
+   "raw_hours": 150.46
   },
   {
    "source": "csv line 61",
@@ -786,7 +786,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 178.8
+   "raw_hours": 161.98
   },
   {
    "source": "csv line 62",
@@ -799,7 +799,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 156.14
+   "raw_hours": 156.04
   },
   {
    "source": "csv line 63",
@@ -812,7 +812,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 154.32
+   "raw_hours": 153.42
   },
   {
    "source": "csv line 64",
@@ -825,7 +825,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 169.46
+   "raw_hours": 170.18
   },
   {
    "source": "csv line 65",
@@ -838,7 +838,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 159.86
+   "raw_hours": 165.78
   },
   {
    "source": "csv line 66",
@@ -851,7 +851,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 168.7
+   "raw_hours": 161.34
   },
   {
    "source": "csv line 67",
@@ -864,7 +864,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 161.88
+   "raw_hours": 162.94
   },
   {
    "source": "csv line 68",
@@ -877,7 +877,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 150.42
+   "raw_hours": 153.48
   },
   {
    "source": "csv line 69",
@@ -890,7 +890,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 148.06
+   "raw_hours": 147.64
   },
   {
    "source": "csv line 70",
@@ -903,7 +903,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 154.94
+   "raw_hours": 159.92
   },
   {
    "source": "csv line 71",
@@ -916,7 +916,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 168.34
+   "raw_hours": 168.6
   },
   {
    "source": "csv line 72",
@@ -929,7 +929,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 159.06
+   "raw_hours": 152.64
   },
   {
    "source": "csv line 73",
@@ -941,8 +941,8 @@
     1007.0
    ],
    "csvLabel": 1,
-   "ripeness_class": 1,
-   "raw_hours": 150.1
+   "ripeness_class": 0,
+   "raw_hours": 160.52
   },
   {
    "source": "csv line 74",
@@ -955,7 +955,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 167.0
+   "raw_hours": 171.08
   },
   {
    "source": "csv line 75",
@@ -968,7 +968,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 164.82
+   "raw_hours": 166.84
   },
   {
    "source": "csv line 76",
@@ -981,7 +981,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 163.04
+   "raw_hours": 157.1
   },
   {
    "source": "csv line 77",
@@ -993,8 +993,8 @@
     1007.3
    ],
    "csvLabel": 1,
-   "ripeness_class": 0,
-   "raw_hours": 161.18
+   "ripeness_class": 1,
+   "raw_hours": 160.44
   },
   {
    "source": "csv line 78",
@@ -1007,7 +1007,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 148.24
+   "raw_hours": 145.2
   },
   {
    "source": "csv line 79",
@@ -1020,7 +1020,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 151.3
+   "raw_hours": 145.86
   },
   {
    "source": "csv line 80",
@@ -1032,8 +1032,8 @@
     1007.7
    ],
    "csvLabel": 1,
-   "ripeness_class": 1,
-   "raw_hours": 152.76
+   "ripeness_class": 0,
+   "raw_hours": 180.44
   },
   {
    "source": "csv line 81",
@@ -1046,7 +1046,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 163.6
+   "raw_hours": 160.16
   },
   {
    "source": "csv line 82",
@@ -1059,7 +1059,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 150.48
+   "raw_hours": 154.04
   },
   {
    "source": "csv line 83",
@@ -1072,7 +1072,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 153.88
+   "raw_hours": 160.66
   },
   {
    "source": "csv line 84",
@@ -1085,7 +1085,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 161.92
+   "raw_hours": 155.98
   },
   {
    "source": "csv line 85",
@@ -1098,7 +1098,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 160.82
+   "raw_hours": 163.76
   },
   {
    "source": "csv line 86",
@@ -1111,7 +1111,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 139.82
+   "raw_hours": 158.62
   },
   {
    "source": "csv line 87",
@@ -1124,7 +1124,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 157.66
+   "raw_hours": 156.64
   },
   {
    "source": "csv line 88",
@@ -1137,7 +1137,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 145.56
+   "raw_hours": 147.36
   },
   {
    "source": "csv line 89",
@@ -1150,7 +1150,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 153.38
+   "raw_hours": 142.46
   },
   {
    "source": "csv line 90",
@@ -1163,7 +1163,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 152.08
+   "raw_hours": 153.28
   },
   {
    "source": "csv line 91",
@@ -1176,7 +1176,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 156.36
+   "raw_hours": 158.58
   },
   {
    "source": "csv line 92",
@@ -1189,7 +1189,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 137.4
+   "raw_hours": 130.64
   },
   {
    "source": "csv line 93",
@@ -1202,7 +1202,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 133.9
+   "raw_hours": 140.84
   },
   {
    "source": "csv line 94",
@@ -1215,7 +1215,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 149.94
+   "raw_hours": 150.06
   },
   {
    "source": "csv line 95",
@@ -1228,7 +1228,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 149.04
+   "raw_hours": 158.28
   },
   {
    "source": "csv line 96",
@@ -1241,7 +1241,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 144.52
+   "raw_hours": 143.38
   },
   {
    "source": "csv line 97",
@@ -1254,7 +1254,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 145.34
+   "raw_hours": 141.04
   },
   {
    "source": "csv line 98",
@@ -1267,7 +1267,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 135.72
+   "raw_hours": 134.98
   },
   {
    "source": "csv line 99",
@@ -1280,7 +1280,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 143.3
+   "raw_hours": 138.9
   },
   {
    "source": "csv line 100",
@@ -1293,7 +1293,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 143.84
+   "raw_hours": 158.22
   },
   {
    "source": "csv line 101",
@@ -1306,7 +1306,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 129.08
+   "raw_hours": 143.6
   },
   {
    "source": "csv line 102",
@@ -1319,7 +1319,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 133.46
+   "raw_hours": 130.88
   },
   {
    "source": "csv line 103",
@@ -1332,7 +1332,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 125.16
+   "raw_hours": 122.82
   },
   {
    "source": "csv line 104",
@@ -1345,7 +1345,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 128.16
+   "raw_hours": 141.84
   },
   {
    "source": "csv line 105",
@@ -1358,7 +1358,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 150.62
+   "raw_hours": 145.18
   },
   {
    "source": "csv line 106",
@@ -1371,7 +1371,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 139.58
+   "raw_hours": 139.66
   },
   {
    "source": "csv line 107",
@@ -1384,7 +1384,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 134.38
+   "raw_hours": 138.76
   },
   {
    "source": "csv line 108",
@@ -1397,7 +1397,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 123.86
+   "raw_hours": 125.18
   },
   {
    "source": "csv line 109",
@@ -1410,7 +1410,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 128.98
+   "raw_hours": 122.98
   },
   {
    "source": "csv line 110",
@@ -1423,7 +1423,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 128.22
+   "raw_hours": 128.52
   },
   {
    "source": "csv line 111",
@@ -1436,7 +1436,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 122.24
+   "raw_hours": 119.4
   },
   {
    "source": "csv line 112",
@@ -1449,7 +1449,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 133.68
+   "raw_hours": 132.82
   },
   {
    "source": "csv line 113",
@@ -1462,7 +1462,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 126.38
+   "raw_hours": 129.08
   },
   {
    "source": "csv line 114",
@@ -1475,7 +1475,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 149.82
+   "raw_hours": 119.58
   },
   {
    "source": "csv line 115",
@@ -1488,7 +1488,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 158.94
+   "raw_hours": 147.18
   },
   {
    "source": "csv line 116",
@@ -1501,7 +1501,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 135.7
+   "raw_hours": 137.96
   },
   {
    "source": "csv line 117",
@@ -1514,7 +1514,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 138.4
+   "raw_hours": 142.62
   },
   {
    "source": "csv line 118",
@@ -1527,7 +1527,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 139.4
+   "raw_hours": 139.16
   },
   {
    "source": "csv line 119",
@@ -1540,7 +1540,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 144.56
+   "raw_hours": 126.42
   },
   {
    "source": "csv line 120",
@@ -1553,7 +1553,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 129.82
+   "raw_hours": 135.28
   },
   {
    "source": "csv line 121",
@@ -1566,7 +1566,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 143.46
+   "raw_hours": 137.92
   },
   {
    "source": "csv line 122",
@@ -1579,7 +1579,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 129.24
+   "raw_hours": 124.9
   },
   {
    "source": "csv line 123",
@@ -1592,7 +1592,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 120.64
+   "raw_hours": 117.94
   },
   {
    "source": "csv line 124",
@@ -1605,7 +1605,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 133.18
+   "raw_hours": 138.1
   },
   {
    "source": "csv line 125",
@@ -1618,7 +1618,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 144.5
+   "raw_hours": 142.64
   },
   {
    "source": "csv line 126",
@@ -1631,7 +1631,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 130.64
+   "raw_hours": 131.78
   },
   {
    "source": "csv line 127",
@@ -1644,7 +1644,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 129.84
+   "raw_hours": 134.42
   },
   {
    "source": "csv line 128",
@@ -1657,7 +1657,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 131.78
+   "raw_hours": 122.28
   },
   {
    "source": "csv line 129",
@@ -1670,7 +1670,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 123.24
+   "raw_hours": 116.3
   },
   {
    "source": "csv line 130",
@@ -1683,7 +1683,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 125.34
+   "raw_hours": 123.94
   },
   {
    "source": "csv line 131",
@@ -1696,7 +1696,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 134.78
+   "raw_hours": 133.44
   },
   {
    "source": "csv line 132",
@@ -1709,7 +1709,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 118.04
+   "raw_hours": 116.7
   },
   {
    "source": "csv line 133",
@@ -1722,7 +1722,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 114.48
+   "raw_hours": 120.16
   },
   {
    "source": "csv line 134",
@@ -1735,7 +1735,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 127.2
+   "raw_hours": 123.7
   },
   {
    "source": "csv line 135",
@@ -1748,7 +1748,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 125.96
+   "raw_hours": 128.22
   },
   {
    "source": "csv line 136",
@@ -1761,7 +1761,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 127.28
+   "raw_hours": 123.32
   },
   {
    "source": "csv line 137",
@@ -1774,7 +1774,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 125.72
+   "raw_hours": 118.86
   },
   {
    "source": "csv line 138",
@@ -1787,7 +1787,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 112.32
+   "raw_hours": 111.88
   },
   {
    "source": "csv line 139",
@@ -1800,7 +1800,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 113.28
+   "raw_hours": 108.76
   },
   {
    "source": "csv line 140",
@@ -1813,7 +1813,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 116.46
+   "raw_hours": 114.62
   },
   {
    "source": "csv line 141",
@@ -1826,7 +1826,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 109.22
+   "raw_hours": 120.52
   },
   {
    "source": "csv line 142",
@@ -1838,8 +1838,8 @@
     1006.0
    ],
    "csvLabel": 1,
-   "ripeness_class": 0,
-   "raw_hours": 106.16
+   "ripeness_class": 1,
+   "raw_hours": 110.78
   },
   {
    "source": "csv line 143",
@@ -1852,7 +1852,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 111.34
+   "raw_hours": 99.74
   },
   {
    "source": "csv line 144",
@@ -1865,7 +1865,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 119.2
+   "raw_hours": 118.4
   },
   {
    "source": "csv line 145",
@@ -1878,7 +1878,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 119.08
+   "raw_hours": 127.64
   },
   {
    "source": "csv line 146",
@@ -1891,7 +1891,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 118.7
+   "raw_hours": 107.06
   },
   {
    "source": "csv line 147",
@@ -1904,7 +1904,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 111.7
+   "raw_hours": 98.2
   },
   {
    "source": "csv line 148",
@@ -1917,7 +1917,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 102.26
+   "raw_hours": 99.52
   },
   {
    "source": "csv line 149",
@@ -1930,7 +1930,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 102.16
+   "raw_hours": 99.64
   },
   {
    "source": "csv line 150",
@@ -1943,7 +1943,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 107.66
+   "raw_hours": 105.14
   },
   {
    "source": "csv line 151",
@@ -1956,7 +1956,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 118.26
+   "raw_hours": 119.82
   },
   {
    "source": "csv line 152",
@@ -1969,7 +1969,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 108.74
+   "raw_hours": 108.68
   },
   {
    "source": "csv line 153",
@@ -1982,7 +1982,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 100.22
+   "raw_hours": 97.92
   },
   {
    "source": "csv line 154",
@@ -1995,7 +1995,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 117.4
+   "raw_hours": 112.2
   },
   {
    "source": "csv line 155",
@@ -2008,7 +2008,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 118.58
+   "raw_hours": 118.06
   },
   {
    "source": "csv line 156",
@@ -2020,8 +2020,8 @@
     1005.3
    ],
    "csvLabel": 0,
-   "ripeness_class": 1,
-   "raw_hours": 100.2
+   "ripeness_class": 0,
+   "raw_hours": 106.56
   },
   {
    "source": "csv line 157",
@@ -2034,7 +2034,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 111.56
+   "raw_hours": 110.2
   },
   {
    "source": "csv line 158",
@@ -2047,7 +2047,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 101.78
+   "raw_hours": 102.24
   },
   {
    "source": "csv line 159",
@@ -2060,7 +2060,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 107.42
+   "raw_hours": 99.98
   },
   {
    "source": "csv line 160",
@@ -2073,7 +2073,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 103.98
+   "raw_hours": 105.12
   },
   {
    "source": "csv line 161",
@@ -2086,7 +2086,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 115.7
+   "raw_hours": 114.96
   },
   {
    "source": "csv line 162",
@@ -2099,7 +2099,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 105.42
+   "raw_hours": 105.08
   },
   {
    "source": "csv line 163",
@@ -2112,7 +2112,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 112.58
+   "raw_hours": 96.28
   },
   {
    "source": "csv line 164",
@@ -2125,7 +2125,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 114.88
+   "raw_hours": 116.12
   },
   {
    "source": "csv line 165",
@@ -2138,7 +2138,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 114.2
+   "raw_hours": 118.92
   },
   {
    "source": "csv line 166",
@@ -2151,7 +2151,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 109.62
+   "raw_hours": 103.14
   },
   {
    "source": "csv line 167",
@@ -2164,7 +2164,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 115.32
+   "raw_hours": 103.66
   },
   {
    "source": "csv line 168",
@@ -2177,7 +2177,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 99.1
+   "raw_hours": 99.78
   },
   {
    "source": "csv line 169",
@@ -2190,7 +2190,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 98.58
+   "raw_hours": 96.22
   },
   {
    "source": "csv line 170",
@@ -2203,7 +2203,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 98.22
+   "raw_hours": 97.9
   },
   {
    "source": "csv line 171",
@@ -2216,7 +2216,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 107.36
+   "raw_hours": 112.16
   },
   {
    "source": "csv line 172",
@@ -2228,8 +2228,8 @@
     1005.6
    ],
    "csvLabel": 2,
-   "ripeness_class": 1,
-   "raw_hours": 77.42
+   "ripeness_class": 2,
+   "raw_hours": 90.64
   },
   {
    "source": "csv line 173",
@@ -2241,8 +2241,8 @@
     1005.4
    ],
    "csvLabel": 2,
-   "ripeness_class": 1,
-   "raw_hours": 80.04
+   "ripeness_class": 2,
+   "raw_hours": 83.68
   },
   {
    "source": "csv line 174",
@@ -2255,7 +2255,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 100.38
+   "raw_hours": 103.88
   },
   {
    "source": "csv line 175",
@@ -2268,7 +2268,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 101.46
+   "raw_hours": 98.92
   },
   {
    "source": "csv line 176",
@@ -2281,7 +2281,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 0,
-   "raw_hours": 96.98
+   "raw_hours": 102.08
   },
   {
    "source": "csv line 177",
@@ -2294,7 +2294,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 78.68
+   "raw_hours": 89.12
   },
   {
    "source": "csv line 178",
@@ -2306,8 +2306,8 @@
     1005.6
    ],
    "csvLabel": 0,
-   "ripeness_class": 1,
-   "raw_hours": 81.88
+   "ripeness_class": 0,
+   "raw_hours": 80.34
   },
   {
    "source": "csv line 179",
@@ -2319,8 +2319,8 @@
     1006.2
    ],
    "csvLabel": 0,
-   "ripeness_class": 0,
-   "raw_hours": 95.76
+   "ripeness_class": 1,
+   "raw_hours": 102.5
   },
   {
    "source": "csv line 180",
@@ -2333,7 +2333,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 86.3
+   "raw_hours": 83.26
   },
   {
    "source": "csv line 181",
@@ -2346,7 +2346,7 @@
    ],
    "csvLabel": 0,
    "ripeness_class": 1,
-   "raw_hours": 87.328
+   "raw_hours": 79.88
   },
   {
    "source": "csv line 182",
@@ -2359,7 +2359,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 88.34
+   "raw_hours": 90.82
   },
   {
    "source": "csv line 183",
@@ -2372,7 +2372,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 79.46
+   "raw_hours": 82.16
   },
   {
    "source": "csv line 184",
@@ -2385,7 +2385,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 94.04
+   "raw_hours": 80.4
   },
   {
    "source": "csv line 185",
@@ -2398,7 +2398,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 97.24
+   "raw_hours": 97.36
   },
   {
    "source": "csv line 186",
@@ -2411,7 +2411,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 92.44
+   "raw_hours": 95.24
   },
   {
    "source": "csv line 187",
@@ -2424,7 +2424,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 90.9
+   "raw_hours": 86.94
   },
   {
    "source": "csv line 188",
@@ -2437,7 +2437,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 79.9
+   "raw_hours": 84.72
   },
   {
    "source": "csv line 189",
@@ -2450,7 +2450,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 81.94
+   "raw_hours": 79.16
   },
   {
    "source": "csv line 190",
@@ -2463,7 +2463,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 80.76
+   "raw_hours": 88.26
   },
   {
    "source": "csv line 191",
@@ -2476,7 +2476,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 97.06
+   "raw_hours": 85.86
   },
   {
    "source": "csv line 192",
@@ -2489,7 +2489,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 87.16
+   "raw_hours": 82.44
   },
   {
    "source": "csv line 193",
@@ -2501,8 +2501,8 @@
     1004.6
    ],
    "csvLabel": 2,
-   "ripeness_class": 1,
-   "raw_hours": 90.88
+   "ripeness_class": 2,
+   "raw_hours": 76.28
   },
   {
    "source": "csv line 194",
@@ -2514,8 +2514,8 @@
     1005.2
    ],
    "csvLabel": 1,
-   "ripeness_class": 2,
-   "raw_hours": 94.1
+   "ripeness_class": 1,
+   "raw_hours": 97.32
   },
   {
    "source": "csv line 195",
@@ -2528,7 +2528,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 96.82
+   "raw_hours": 101.66
   },
   {
    "source": "csv line 196",
@@ -2540,8 +2540,8 @@
     1004.7
    ],
    "csvLabel": 1,
-   "ripeness_class": 1,
-   "raw_hours": 91.1
+   "ripeness_class": 2,
+   "raw_hours": 86.54
   },
   {
    "source": "csv line 197",
@@ -2554,7 +2554,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 88.8
+   "raw_hours": 86.22
   },
   {
    "source": "csv line 198",
@@ -2567,7 +2567,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 79.8
+   "raw_hours": 77.74
   },
   {
    "source": "csv line 199",
@@ -2579,8 +2579,8 @@
     1005.4
    ],
    "csvLabel": 1,
-   "ripeness_class": 0,
-   "raw_hours": 114.24
+   "ripeness_class": 1,
+   "raw_hours": 85.56
   },
   {
    "source": "csv line 200",
@@ -2593,7 +2593,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 80.36
+   "raw_hours": 77.74
   },
   {
    "source": "csv line 201",
@@ -2605,8 +2605,8 @@
     1004.4
    ],
    "csvLabel": 1,
-   "ripeness_class": 1,
-   "raw_hours": 93.94
+   "ripeness_class": 2,
+   "raw_hours": 85.76
   },
   {
    "source": "csv line 202",
@@ -2619,7 +2619,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 77.4
+   "raw_hours": 78.06
   },
   {
    "source": "csv line 203",
@@ -2632,7 +2632,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 69.26
+   "raw_hours": 72.22
   },
   {
    "source": "csv line 204",
@@ -2645,7 +2645,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 89.58
+   "raw_hours": 89.66
   },
   {
    "source": "csv line 205",
@@ -2658,7 +2658,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 91.44
+   "raw_hours": 82.16
   },
   {
    "source": "csv line 206",
@@ -2671,7 +2671,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 77.06
+   "raw_hours": 88.3
   },
   {
    "source": "csv line 207",
@@ -2684,7 +2684,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 70.14666666666666
+   "raw_hours": 77.58
   },
   {
    "source": "csv line 208",
@@ -2697,7 +2697,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 60.84
+   "raw_hours": 61.02
   },
   {
    "source": "csv line 209",
@@ -2710,7 +2710,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 76.88
+   "raw_hours": 75.22
   },
   {
    "source": "csv line 210",
@@ -2723,7 +2723,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 73.18
+   "raw_hours": 77.76
   },
   {
    "source": "csv line 211",
@@ -2736,7 +2736,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 84.72
+   "raw_hours": 83.4
   },
   {
    "source": "csv line 212",
@@ -2749,7 +2749,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 75.41666666666667
+   "raw_hours": 72.76
   },
   {
    "source": "csv line 213",
@@ -2761,8 +2761,8 @@
     1005.0
    ],
    "csvLabel": 2,
-   "ripeness_class": 2,
-   "raw_hours": 71.1
+   "ripeness_class": 1,
+   "raw_hours": 79.94
   },
   {
    "source": "csv line 214",
@@ -2775,7 +2775,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 84.86666666666666
+   "raw_hours": 88.32
   },
   {
    "source": "csv line 215",
@@ -2788,7 +2788,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 93.46
+   "raw_hours": 92.84
   },
   {
    "source": "csv line 216",
@@ -2800,8 +2800,8 @@
     1005.1
    ],
    "csvLabel": 1,
-   "ripeness_class": 1,
-   "raw_hours": 77.76
+   "ripeness_class": 2,
+   "raw_hours": 73.28
   },
   {
    "source": "csv line 217",
@@ -2814,7 +2814,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 73.58666666666667
+   "raw_hours": 76.14
   },
   {
    "source": "csv line 218",
@@ -2827,7 +2827,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 64.34
+   "raw_hours": 68.76
   },
   {
    "source": "csv line 219",
@@ -2840,7 +2840,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 85.168
+   "raw_hours": 81.94
   },
   {
    "source": "csv line 220",
@@ -2853,7 +2853,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 0,
-   "raw_hours": 90.8
+   "raw_hours": 94.4
   },
   {
    "source": "csv line 221",
@@ -2866,7 +2866,7 @@
    ],
    "csvLabel": 1,
    "ripeness_class": 1,
-   "raw_hours": 78.57433333333333
+   "raw_hours": 76.94
   },
   {
    "source": "csv line 222",
@@ -2878,8 +2878,8 @@
     1004.8
    ],
    "csvLabel": 3,
-   "ripeness_class": 2,
-   "raw_hours": 60.58
+   "ripeness_class": 3,
+   "raw_hours": 62.76
   },
   {
    "source": "csv line 223",
@@ -2892,7 +2892,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 53.82
+   "raw_hours": 59.58
   },
   {
    "source": "csv line 224",
@@ -2905,7 +2905,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 74.26
+   "raw_hours": 83.58
   },
   {
    "source": "csv line 225",
@@ -2918,7 +2918,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 75.86
+   "raw_hours": 83.8
   },
   {
    "source": "csv line 226",
@@ -2931,7 +2931,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 68.64
+   "raw_hours": 71.88
   },
   {
    "source": "csv line 227",
@@ -2944,7 +2944,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 68.1
+   "raw_hours": 70.82
   },
   {
    "source": "csv line 228",
@@ -2957,7 +2957,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 51.7
+   "raw_hours": 55.24
   },
   {
    "source": "csv line 229",
@@ -2970,7 +2970,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 66.62
+   "raw_hours": 80.82
   },
   {
    "source": "csv line 230",
@@ -2983,7 +2983,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 53.62
+   "raw_hours": 63.22
   },
   {
    "source": "csv line 231",
@@ -2996,7 +2996,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 75.74
+   "raw_hours": 80.98
   },
   {
    "source": "csv line 232",
@@ -3009,7 +3009,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 56.52
+   "raw_hours": 60.3
   },
   {
    "source": "csv line 233",
@@ -3022,7 +3022,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 50.86
+   "raw_hours": 55.02
   },
   {
    "source": "csv line 234",
@@ -3034,8 +3034,8 @@
     1005.3
    ],
    "csvLabel": 2,
-   "ripeness_class": 3,
-   "raw_hours": 50.64
+   "ripeness_class": 2,
+   "raw_hours": 74.2
   },
   {
    "source": "csv line 235",
@@ -3048,7 +3048,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 63.26
+   "raw_hours": 65.3
   },
   {
    "source": "csv line 236",
@@ -3061,7 +3061,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 64.48
+   "raw_hours": 64.56
   },
   {
    "source": "csv line 237",
@@ -3074,7 +3074,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 56.1
+   "raw_hours": 63.52
   },
   {
    "source": "csv line 238",
@@ -3087,7 +3087,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 52.64
+   "raw_hours": 64.88
   },
   {
    "source": "csv line 239",
@@ -3100,7 +3100,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 45.86
+   "raw_hours": 57.34
   },
   {
    "source": "csv line 240",
@@ -3113,7 +3113,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 51.18
+   "raw_hours": 52.62
   },
   {
    "source": "csv line 241",
@@ -3126,7 +3126,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 61.48
+   "raw_hours": 61.98
   },
   {
    "source": "csv line 242",
@@ -3139,7 +3139,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 55.5
+   "raw_hours": 57.4
   },
   {
    "source": "csv line 243",
@@ -3152,7 +3152,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 50.3
+   "raw_hours": 59.14
   },
   {
    "source": "csv line 244",
@@ -3165,7 +3165,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 57.52
+   "raw_hours": 65.78
   },
   {
    "source": "csv line 245",
@@ -3178,7 +3178,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 36.10514285714286
+   "raw_hours": 69.96
   },
   {
    "source": "csv line 246",
@@ -3191,7 +3191,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 59.52
+   "raw_hours": 77.22
   },
   {
    "source": "csv line 247",
@@ -3204,7 +3204,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 50.43833333333333
+   "raw_hours": 54.48
   },
   {
    "source": "csv line 248",
@@ -3217,7 +3217,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 41.24
+   "raw_hours": 48.88
   },
   {
    "source": "csv line 249",
@@ -3230,7 +3230,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 49.646142857142856
+   "raw_hours": 60.26
   },
   {
    "source": "csv line 250",
@@ -3243,7 +3243,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 45.38666666666666
+   "raw_hours": 57.14
   },
   {
    "source": "csv line 251",
@@ -3256,7 +3256,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 58.67333333333333
+   "raw_hours": 58.22
   },
   {
    "source": "csv line 252",
@@ -3268,8 +3268,8 @@
     1004.8
    ],
    "csvLabel": 3,
-   "ripeness_class": 2,
-   "raw_hours": 58.45
+   "ripeness_class": 3,
+   "raw_hours": 54.64
   },
   {
    "source": "csv line 253",
@@ -3281,8 +3281,8 @@
     1004.6
    ],
    "csvLabel": 3,
-   "ripeness_class": 2,
-   "raw_hours": 58.32
+   "ripeness_class": 3,
+   "raw_hours": 44.88
   },
   {
    "source": "csv line 254",
@@ -3295,7 +3295,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 60.001333333333335
+   "raw_hours": 63.3
   },
   {
    "source": "csv line 255",
@@ -3308,7 +3308,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 57.0
+   "raw_hours": 57.34
   },
   {
    "source": "csv line 256",
@@ -3321,7 +3321,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 54.22
+   "raw_hours": 59.16
   },
   {
    "source": "csv line 257",
@@ -3334,7 +3334,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 53.4
+   "raw_hours": 54.62
   },
   {
    "source": "csv line 258",
@@ -3347,7 +3347,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 44.72
+   "raw_hours": 67.22
   },
   {
    "source": "csv line 259",
@@ -3360,7 +3360,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 45.2
+   "raw_hours": 44.96
   },
   {
    "source": "csv line 260",
@@ -3373,7 +3373,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 54.16
+   "raw_hours": 42.6
   },
   {
    "source": "csv line 261",
@@ -3386,7 +3386,7 @@
    ],
    "csvLabel": 2,
    "ripeness_class": 2,
-   "raw_hours": 58.82
+   "raw_hours": 57.38
   },
   {
    "source": "csv line 262",
@@ -3398,8 +3398,8 @@
     1005.3
    ],
    "csvLabel": 4,
-   "ripeness_class": 3,
-   "raw_hours": 35.34
+   "ripeness_class": 4,
+   "raw_hours": 42.78
   },
   {
    "source": "csv line 263",
@@ -3412,7 +3412,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 40.42
+   "raw_hours": 40.8
   },
   {
    "source": "csv line 264",
@@ -3425,7 +3425,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 36.82
+   "raw_hours": 61.68
   },
   {
    "source": "csv line 265",
@@ -3438,7 +3438,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 50.98
+   "raw_hours": 56.5
   },
   {
    "source": "csv line 266",
@@ -3451,7 +3451,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 47.56
+   "raw_hours": 52.64
   },
   {
    "source": "csv line 267",
@@ -3463,8 +3463,8 @@
     1005.5
    ],
    "csvLabel": 3,
-   "ripeness_class": 3,
-   "raw_hours": 43.46
+   "ripeness_class": 4,
+   "raw_hours": 59.76
   },
   {
    "source": "csv line 268",
@@ -3477,7 +3477,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 31.42
+   "raw_hours": 41.96
   },
   {
    "source": "csv line 269",
@@ -3490,7 +3490,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 38.84
+   "raw_hours": 55.14
   },
   {
    "source": "csv line 270",
@@ -3503,7 +3503,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 36.44
+   "raw_hours": 38.08
   },
   {
    "source": "csv line 271",
@@ -3516,7 +3516,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 50.64
+   "raw_hours": 56.04
   },
   {
    "source": "csv line 272",
@@ -3529,7 +3529,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 33.4
+   "raw_hours": 34.14
   },
   {
    "source": "csv line 273",
@@ -3542,7 +3542,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 3,
-   "raw_hours": 24.56
+   "raw_hours": 29.78
   },
   {
    "source": "csv line 274",
@@ -3555,7 +3555,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 37.32
+   "raw_hours": 38.18
   },
   {
    "source": "csv line 275",
@@ -3568,7 +3568,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 42.64
+   "raw_hours": 43.84
   },
   {
    "source": "csv line 276",
@@ -3581,7 +3581,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 42.88
+   "raw_hours": 22.4
   },
   {
    "source": "csv line 277",
@@ -3594,7 +3594,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 37.14
+   "raw_hours": 34.52
   },
   {
    "source": "csv line 278",
@@ -3607,7 +3607,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 28.28
+   "raw_hours": 23.04
   },
   {
    "source": "csv line 279",
@@ -3620,7 +3620,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 20.02
+   "raw_hours": 24.2
   },
   {
    "source": "csv line 280",
@@ -3633,7 +3633,7 @@
    ],
    "csvLabel": 3,
    "ripeness_class": 3,
-   "raw_hours": 29.18
+   "raw_hours": 27.38
   },
   {
    "source": "csv line 281",
@@ -3646,7 +3646,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 44.16
+   "raw_hours": 44.58
   },
   {
    "source": "csv line 282",
@@ -3659,7 +3659,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 29.46
+   "raw_hours": 25.0
   },
   {
    "source": "csv line 283",
@@ -3672,7 +3672,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 22.34
+   "raw_hours": 24.62
   },
   {
    "source": "csv line 284",
@@ -3685,7 +3685,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 35.76
+   "raw_hours": 35.94
   },
   {
    "source": "csv line 285",
@@ -3698,7 +3698,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 36.4
+   "raw_hours": 49.74
   },
   {
    "source": "csv line 286",
@@ -3711,7 +3711,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 33.5
+   "raw_hours": 36.26
   },
   {
    "source": "csv line 287",
@@ -3724,7 +3724,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 29.22
+   "raw_hours": 29.58
   },
   {
    "source": "csv line 288",
@@ -3737,7 +3737,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 25.32
+   "raw_hours": 35.2
   },
   {
    "source": "csv line 289",
@@ -3749,8 +3749,8 @@
     1003.8
    ],
    "csvLabel": 4,
-   "ripeness_class": 5,
-   "raw_hours": 30.7
+   "ripeness_class": 4,
+   "raw_hours": 24.82
   },
   {
    "source": "csv line 290",
@@ -3763,7 +3763,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 23.5
+   "raw_hours": 25.3
   },
   {
    "source": "csv line 291",
@@ -3776,7 +3776,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 4,
-   "raw_hours": 33.44
+   "raw_hours": 32.66
   },
   {
    "source": "csv line 292",
@@ -3789,7 +3789,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 23.04
+   "raw_hours": 26.34
   },
   {
    "source": "csv line 293",
@@ -3802,7 +3802,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 22.258
+   "raw_hours": 24.9
   },
   {
    "source": "csv line 294",
@@ -3814,8 +3814,8 @@
     1004.7
    ],
    "csvLabel": 4,
-   "ripeness_class": 4,
-   "raw_hours": 33.06
+   "ripeness_class": 2,
+   "raw_hours": 39.68
   },
   {
    "source": "csv line 295",
@@ -3828,7 +3828,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 37.086666666666666
+   "raw_hours": 34.82
   },
   {
    "source": "csv line 296",
@@ -3841,7 +3841,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 24.735
+   "raw_hours": 30.18
   },
   {
    "source": "csv line 297",
@@ -3854,7 +3854,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 24.836666666666666
+   "raw_hours": 27.42
   },
   {
    "source": "csv line 298",
@@ -3867,7 +3867,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 21.666666666666668
+   "raw_hours": 24.42
   },
   {
    "source": "csv line 299",
@@ -3880,7 +3880,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 42.9
+   "raw_hours": 36.58
   },
   {
    "source": "csv line 300",
@@ -3893,7 +3893,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 18.435
+   "raw_hours": 21.54
   },
   {
    "source": "csv line 301",
@@ -3906,7 +3906,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 36.275
+   "raw_hours": 35.74
   },
   {
    "source": "csv line 302",
@@ -3919,7 +3919,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 15.62
+   "raw_hours": 16.36
   },
   {
    "source": "csv line 303",
@@ -3931,8 +3931,8 @@
     1007.2
    ],
    "csvLabel": 5,
-   "ripeness_class": 5,
-   "raw_hours": 5.62
+   "ripeness_class": 4,
+   "raw_hours": 6.72
   },
   {
    "source": "csv line 304",
@@ -3945,7 +3945,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 21.38
+   "raw_hours": 23.06
   },
   {
    "source": "csv line 305",
@@ -3958,7 +3958,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 24.18
+   "raw_hours": 22.86
   },
   {
    "source": "csv line 306",
@@ -3970,8 +3970,8 @@
     1007.9
    ],
    "csvLabel": 4,
-   "ripeness_class": 4,
-   "raw_hours": 23.82
+   "ripeness_class": 6,
+   "raw_hours": 5.26
   },
   {
    "source": "csv line 307",
@@ -3983,8 +3983,8 @@
     1007.3
    ],
    "csvLabel": 4,
-   "ripeness_class": 5,
-   "raw_hours": 7.38
+   "ripeness_class": 4,
+   "raw_hours": 14.52
   },
   {
    "source": "csv line 308",
@@ -3997,7 +3997,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 10.12
+   "raw_hours": 11.38
   },
   {
    "source": "csv line 309",
@@ -4010,7 +4010,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 4.38
+   "raw_hours": 4.42
   },
   {
    "source": "csv line 310",
@@ -4023,7 +4023,7 @@
    ],
    "csvLabel": 4,
    "ripeness_class": 4,
-   "raw_hours": 8.54
+   "raw_hours": 5.74
   },
   {
    "source": "csv line 311",
@@ -4036,7 +4036,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 24.8
+   "raw_hours": 20.76
   },
   {
    "source": "csv line 312",
@@ -4049,7 +4049,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 14.08
+   "raw_hours": 16.26
   },
   {
    "source": "csv line 313",
@@ -4061,8 +4061,8 @@
     1007.2
    ],
    "csvLabel": 6,
-   "ripeness_class": 6,
-   "raw_hours": 7.44
+   "ripeness_class": 5,
+   "raw_hours": 78.66
   },
   {
    "source": "csv line 314",
@@ -4075,7 +4075,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 17.28
+   "raw_hours": 23.04
   },
   {
    "source": "csv line 315",
@@ -4088,7 +4088,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 22.6
+   "raw_hours": 25.74
   },
   {
    "source": "csv line 316",
@@ -4100,8 +4100,8 @@
     1008.3
    ],
    "csvLabel": 5,
-   "ripeness_class": 5,
-   "raw_hours": 27.04
+   "ripeness_class": 3,
+   "raw_hours": 32.2
   },
   {
    "source": "csv line 317",
@@ -4114,7 +4114,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 19.12
+   "raw_hours": 20.08
   },
   {
    "source": "csv line 318",
@@ -4127,7 +4127,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 8.92
+   "raw_hours": 12.26
   },
   {
    "source": "csv line 319",
@@ -4139,8 +4139,8 @@
     1007.2
    ],
    "csvLabel": 6,
-   "ripeness_class": 6,
-   "raw_hours": 7.96
+   "ripeness_class": 5,
+   "raw_hours": 96.58
   },
   {
    "source": "csv line 320",
@@ -4153,7 +4153,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 5,
-   "raw_hours": 15.5
+   "raw_hours": 21.7
   },
   {
    "source": "csv line 321",
@@ -4166,7 +4166,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 21.58
+   "raw_hours": 31.38
   },
   {
    "source": "csv line 322",
@@ -4179,7 +4179,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 14.3
+   "raw_hours": 15.46
   },
   {
    "source": "csv line 323",
@@ -4191,8 +4191,8 @@
     1004.9
    ],
    "csvLabel": 6,
-   "ripeness_class": 6,
-   "raw_hours": 4.26
+   "ripeness_class": 5,
+   "raw_hours": 20.0
   },
   {
    "source": "csv line 324",
@@ -4205,7 +4205,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 12.38
+   "raw_hours": 27.54
   },
   {
    "source": "csv line 325",
@@ -4218,7 +4218,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 28.919666666666664
+   "raw_hours": 26.02
   },
   {
    "source": "csv line 326",
@@ -4231,7 +4231,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 18.14
+   "raw_hours": 16.82
   },
   {
    "source": "csv line 327",
@@ -4244,7 +4244,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 5.26
+   "raw_hours": 22.08
   },
   {
    "source": "csv line 328",
@@ -4256,8 +4256,8 @@
     1004.9
    ],
    "csvLabel": 6,
-   "ripeness_class": 6,
-   "raw_hours": 6.44
+   "ripeness_class": 5,
+   "raw_hours": 30.26
   },
   {
    "source": "csv line 329",
@@ -4270,7 +4270,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 6.515
+   "raw_hours": 19.08
   },
   {
    "source": "csv line 330",
@@ -4282,8 +4282,8 @@
     1004.9
    ],
    "csvLabel": 6,
-   "ripeness_class": 5,
-   "raw_hours": 8.62
+   "ripeness_class": 6,
+   "raw_hours": 5.76
   },
   {
    "source": "csv line 331",
@@ -4296,7 +4296,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 17.656666666666666
+   "raw_hours": 23.22
   },
   {
    "source": "csv line 332",
@@ -4309,7 +4309,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 2.0
+   "raw_hours": 10.16
   },
   {
    "source": "csv line 333",
@@ -4322,7 +4322,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 14.14
+   "raw_hours": 23.98
   },
   {
    "source": "csv line 334",
@@ -4335,7 +4335,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 10.28
+   "raw_hours": 21.64
   },
   {
    "source": "csv line 335",
@@ -4348,7 +4348,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 21.37
+   "raw_hours": 21.62
   },
   {
    "source": "csv line 336",
@@ -4361,7 +4361,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 6,
-   "raw_hours": 4.038333333333333
+   "raw_hours": 12.74
   },
   {
    "source": "csv line 337",
@@ -4373,8 +4373,8 @@
     1005.2
    ],
    "csvLabel": 6,
-   "ripeness_class": 6,
-   "raw_hours": 5.06
+   "ripeness_class": 5,
+   "raw_hours": 29.82
   },
   {
    "source": "csv line 338",
@@ -4387,7 +4387,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 3.4133333333333336
+   "raw_hours": 5.6
   },
   {
    "source": "csv line 339",
@@ -4400,7 +4400,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 21.531666666666666
+   "raw_hours": 31.78
   },
   {
    "source": "csv line 340",
@@ -4413,7 +4413,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 4.02
+   "raw_hours": 9.5
   },
   {
    "source": "csv line 341",
@@ -4426,7 +4426,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 0.54
+   "raw_hours": 0.28
   },
   {
    "source": "csv line 342",
@@ -4439,7 +4439,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 4.66
+   "raw_hours": 3.32
   },
   {
    "source": "csv line 343",
@@ -4451,8 +4451,8 @@
     1008.3
    ],
    "csvLabel": 5,
-   "ripeness_class": 5,
-   "raw_hours": 5.48
+   "ripeness_class": 6,
+   "raw_hours": 6.58
   },
   {
    "source": "csv line 344",
@@ -4465,7 +4465,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 8.78
+   "raw_hours": 6.64
   },
   {
    "source": "csv line 345",
@@ -4478,7 +4478,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 16.0
+   "raw_hours": 7.82
   },
   {
    "source": "csv line 346",
@@ -4491,7 +4491,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 14.54
+   "raw_hours": 2.88
   },
   {
    "source": "csv line 347",
@@ -4504,7 +4504,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 2.36
+   "raw_hours": 2.3
   },
   {
    "source": "csv line 348",
@@ -4517,7 +4517,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 5.32
+   "raw_hours": 6.48
   },
   {
    "source": "csv line 349",
@@ -4530,7 +4530,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 3.3
+   "raw_hours": 1.94
   },
   {
    "source": "csv line 350",
@@ -4543,7 +4543,7 @@
    ],
    "csvLabel": 5,
    "ripeness_class": 5,
-   "raw_hours": 6.9
+   "raw_hours": 7.12
   },
   {
    "source": "csv line 351",
@@ -4556,7 +4556,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 4.5
+   "raw_hours": 0.36
   },
   {
    "source": "csv line 352",
@@ -4582,7 +4582,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 9.96
+   "raw_hours": 2.32
   },
   {
    "source": "csv line 354",
@@ -4608,7 +4608,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 1.44
+   "raw_hours": 0.02
   },
   {
    "source": "csv line 356",
@@ -4621,7 +4621,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 2.68
+   "raw_hours": 0.16
   },
   {
    "source": "csv line 357",
@@ -4634,7 +4634,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.16
+   "raw_hours": 0.26
   },
   {
    "source": "csv line 358",
@@ -4647,7 +4647,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 8.72
+   "raw_hours": 5.7
   },
   {
    "source": "csv line 359",
@@ -4673,7 +4673,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 6.2
+   "raw_hours": 1.34
   },
   {
    "source": "csv line 361",
@@ -5011,7 +5011,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.04
+   "raw_hours": 0.0
   },
   {
    "source": "csv line 387",
@@ -5037,7 +5037,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 3.32
+   "raw_hours": 0.0
   },
   {
    "source": "csv line 389",
@@ -5089,7 +5089,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.08
+   "raw_hours": 0.6
   },
   {
    "source": "csv line 393",
@@ -5115,7 +5115,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.0
+   "raw_hours": 0.52
   },
   {
    "source": "csv line 395",
@@ -5141,7 +5141,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.26
+   "raw_hours": 9.12
   },
   {
    "source": "csv line 397",
@@ -5167,7 +5167,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.08
+   "raw_hours": 0.6
   },
   {
    "source": "csv line 399",
@@ -5180,7 +5180,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.0
+   "raw_hours": 0.58
   },
   {
    "source": "csv line 400",
@@ -5232,7 +5232,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.0
+   "raw_hours": 19.1
   },
   {
    "source": "csv line 404",
@@ -5453,7 +5453,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.04
+   "raw_hours": 0.0
   },
   {
    "source": "csv line 421",
@@ -5505,7 +5505,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.0
+   "raw_hours": 0.52
   },
   {
    "source": "csv line 425",
@@ -5544,7 +5544,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.08
+   "raw_hours": 6.72
   },
   {
    "source": "csv line 428",
@@ -5817,7 +5817,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.04
+   "raw_hours": 0.0
   },
   {
    "source": "csv line 449",
@@ -5882,7 +5882,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.08
+   "raw_hours": 0.24
   },
   {
    "source": "csv line 454",
@@ -5895,7 +5895,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.0
+   "raw_hours": 0.22
   },
   {
    "source": "csv line 455",
@@ -5908,7 +5908,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.0
+   "raw_hours": 0.02
   },
   {
    "source": "csv line 456",
@@ -5934,7 +5934,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 3.18
+   "raw_hours": 1.04
   },
   {
    "source": "csv line 458",
@@ -5947,7 +5947,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 10.56
+   "raw_hours": 22.18
   },
   {
    "source": "csv line 459",
@@ -5960,7 +5960,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 5.96
+   "raw_hours": 0.04
   },
   {
    "source": "csv line 460",
@@ -5973,7 +5973,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 12.68
+   "raw_hours": 2.68
   },
   {
    "source": "csv line 461",
@@ -5986,7 +5986,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 3.5
+   "raw_hours": 0.36
   },
   {
    "source": "csv line 462",
@@ -5999,7 +5999,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 7.8
+   "raw_hours": 8.3
   },
   {
    "source": "csv line 463",
@@ -6012,7 +6012,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 2,
-   "raw_hours": 36.10514285714286
+   "raw_hours": 69.96
   },
   {
    "source": "csv line 464",
@@ -6025,7 +6025,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 21.62
+   "raw_hours": 2.98
   },
   {
    "source": "csv line 465",
@@ -6038,7 +6038,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 85.2
+   "raw_hours": 4.5
   },
   {
    "source": "csv line 466",
@@ -6051,7 +6051,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 13.78
+   "raw_hours": 3.52
   },
   {
    "source": "csv line 467",
@@ -6064,7 +6064,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 9.78
+   "raw_hours": 4.5
   },
   {
    "source": "csv line 468",
@@ -6077,7 +6077,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 52.78
+   "raw_hours": 3.98
   },
   {
    "source": "csv line 469",
@@ -6142,7 +6142,7 @@
    ],
    "csvLabel": 6,
    "ripeness_class": 6,
-   "raw_hours": 0.0
+   "raw_hours": 0.02
   },
   {
    "source": "csv line 474",
@@ -6158,6 +6158,6155 @@
    "raw_hours": 0.0
   },
   {
+   "source": "csv line 475",
+   "features": [
+    357.5,
+    4660.0,
+    31.1,
+    72.5,
+    1004.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 164.8
+  },
+  {
+   "source": "csv line 476",
+   "features": [
+    339.0,
+    4190.0,
+    31.0,
+    75.6,
+    1003.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 135.08
+  },
+  {
+   "source": "csv line 477",
+   "features": [
+    385.5,
+    3831.0,
+    29.2,
+    74.9,
+    1009.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 169.96
+  },
+  {
+   "source": "csv line 478",
+   "features": [
+    352.4,
+    3343.0,
+    28.7,
+    71.1,
+    1005.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 174.8
+  },
+  {
+   "source": "csv line 479",
+   "features": [
+    381.7,
+    4830.0,
+    30.3,
+    75.8,
+    1006.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 161.3
+  },
+  {
+   "source": "csv line 480",
+   "features": [
+    343.2,
+    4087.0,
+    30.6,
+    74.8,
+    1006.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 181.72
+  },
+  {
+   "source": "csv line 481",
+   "features": [
+    478.2,
+    4200.0,
+    29.3,
+    72.2,
+    1005.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 196.22
+  },
+  {
+   "source": "csv line 482",
+   "features": [
+    315.4,
+    4297.0,
+    27.6,
+    76.5,
+    1004.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 142.84
+  },
+  {
+   "source": "csv line 483",
+   "features": [
+    324.9,
+    4501.0,
+    30.6,
+    80.6,
+    1006.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 170.48
+  },
+  {
+   "source": "csv line 484",
+   "features": [
+    294.8,
+    4937.0,
+    29.3,
+    78.2,
+    1005.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 146.3
+  },
+  {
+   "source": "csv line 485",
+   "features": [
+    242.8,
+    3645.0,
+    28.8,
+    83.8,
+    1006.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 107.38
+  },
+  {
+   "source": "csv line 486",
+   "features": [
+    333.9,
+    4226.0,
+    27.0,
+    79.8,
+    1004.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 154.56
+  },
+  {
+   "source": "csv line 487",
+   "features": [
+    236.9,
+    4172.0,
+    27.9,
+    73.8,
+    1006.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 140.6
+  },
+  {
+   "source": "csv line 488",
+   "features": [
+    365.7,
+    4150.0,
+    28.3,
+    80.7,
+    1009.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 164.68
+  },
+  {
+   "source": "csv line 489",
+   "features": [
+    442.8,
+    3649.0,
+    28.5,
+    79.3,
+    1008.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 192.42
+  },
+  {
+   "source": "csv line 490",
+   "features": [
+    382.6,
+    4416.0,
+    28.0,
+    74.3,
+    1007.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 199.58
+  },
+  {
+   "source": "csv line 491",
+   "features": [
+    347.3,
+    4229.0,
+    29.3,
+    73.9,
+    1006.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 202.02
+  },
+  {
+   "source": "csv line 492",
+   "features": [
+    358.0,
+    4393.0,
+    28.4,
+    71.5,
+    1007.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 208.02
+  },
+  {
+   "source": "csv line 493",
+   "features": [
+    357.0,
+    4318.0,
+    30.2,
+    77.2,
+    1007.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 155.16
+  },
+  {
+   "source": "csv line 494",
+   "features": [
+    384.7,
+    4179.0,
+    28.1,
+    73.4,
+    1005.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 156.14
+  },
+  {
+   "source": "csv line 495",
+   "features": [
+    344.5,
+    3704.0,
+    28.8,
+    80.5,
+    1005.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 132.84
+  },
+  {
+   "source": "csv line 496",
+   "features": [
+    239.8,
+    4325.0,
+    28.8,
+    72.5,
+    1003.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 150.62
+  },
+  {
+   "source": "csv line 497",
+   "features": [
+    350.7,
+    4426.0,
+    27.8,
+    80.2,
+    1009.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 162.88
+  },
+  {
+   "source": "csv line 498",
+   "features": [
+    344.8,
+    4191.0,
+    31.4,
+    81.7,
+    1006.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 152.14
+  },
+  {
+   "source": "csv line 499",
+   "features": [
+    376.7,
+    4063.0,
+    31.4,
+    72.6,
+    1006.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 197.28
+  },
+  {
+   "source": "csv line 500",
+   "features": [
+    381.0,
+    4573.0,
+    29.0,
+    75.2,
+    1007.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 172.7
+  },
+  {
+   "source": "csv line 501",
+   "features": [
+    409.5,
+    4214.0,
+    27.8,
+    74.3,
+    1005.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 157.98
+  },
+  {
+   "source": "csv line 502",
+   "features": [
+    452.3,
+    3917.0,
+    29.2,
+    71.7,
+    1006.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 184.12
+  },
+  {
+   "source": "csv line 503",
+   "features": [
+    389.9,
+    4145.0,
+    30.2,
+    71.9,
+    1005.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 184.04
+  },
+  {
+   "source": "csv line 504",
+   "features": [
+    385.2,
+    4166.0,
+    30.6,
+    80.7,
+    1008.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 138.58
+  },
+  {
+   "source": "csv line 505",
+   "features": [
+    345.6,
+    4757.0,
+    27.4,
+    76.2,
+    1003.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 154.16
+  },
+  {
+   "source": "csv line 506",
+   "features": [
+    326.0,
+    5022.0,
+    29.1,
+    76.1,
+    1005.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 171.58
+  },
+  {
+   "source": "csv line 507",
+   "features": [
+    398.4,
+    3712.0,
+    28.8,
+    72.5,
+    1007.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 194.98
+  },
+  {
+   "source": "csv line 508",
+   "features": [
+    435.9,
+    4876.0,
+    27.7,
+    73.1,
+    1009.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 195.5
+  },
+  {
+   "source": "csv line 509",
+   "features": [
+    364.7,
+    4207.0,
+    31.0,
+    77.0,
+    1005.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 191.84
+  },
+  {
+   "source": "csv line 510",
+   "features": [
+    471.4,
+    3981.0,
+    28.1,
+    70.8,
+    1004.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 210.32
+  },
+  {
+   "source": "csv line 511",
+   "features": [
+    448.3,
+    4485.0,
+    29.9,
+    78.7,
+    1005.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 146.24
+  },
+  {
+   "source": "csv line 512",
+   "features": [
+    299.3,
+    3910.0,
+    28.2,
+    73.7,
+    1003.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 143.66
+  },
+  {
+   "source": "csv line 513",
+   "features": [
+    453.0,
+    3747.0,
+    30.0,
+    68.6,
+    1004.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 181.44
+  },
+  {
+   "source": "csv line 514",
+   "features": [
+    392.1,
+    4153.0,
+    28.1,
+    68.9,
+    1006.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 187.88
+  },
+  {
+   "source": "csv line 515",
+   "features": [
+    344.3,
+    3608.0,
+    29.9,
+    70.5,
+    1006.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 185.2
+  },
+  {
+   "source": "csv line 516",
+   "features": [
+    263.4,
+    3902.0,
+    30.8,
+    70.9,
+    1008.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 158.72
+  },
+  {
+   "source": "csv line 517",
+   "features": [
+    210.6,
+    5094.0,
+    29.5,
+    72.9,
+    1007.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 159.62
+  },
+  {
+   "source": "csv line 518",
+   "features": [
+    355.8,
+    4297.0,
+    28.5,
+    78.3,
+    1008.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 181.1
+  },
+  {
+   "source": "csv line 519",
+   "features": [
+    263.8,
+    3942.0,
+    29.5,
+    80.0,
+    1006.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 165.72
+  },
+  {
+   "source": "csv line 520",
+   "features": [
+    396.1,
+    3766.0,
+    29.1,
+    83.0,
+    1007.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 6,
+   "raw_hours": 96.44
+  },
+  {
+   "source": "csv line 521",
+   "features": [
+    176.6,
+    4239.0,
+    27.4,
+    79.3,
+    1005.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 140.58
+  },
+  {
+   "source": "csv line 522",
+   "features": [
+    390.5,
+    5094.0,
+    27.3,
+    83.6,
+    1008.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 141.48
+  },
+  {
+   "source": "csv line 523",
+   "features": [
+    344.9,
+    4340.0,
+    26.9,
+    72.1,
+    1007.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 179.28
+  },
+  {
+   "source": "csv line 524",
+   "features": [
+    302.9,
+    3441.0,
+    28.4,
+    81.9,
+    1009.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 134.32
+  },
+  {
+   "source": "csv line 525",
+   "features": [
+    491.4,
+    3893.0,
+    29.6,
+    75.2,
+    1009.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 168.26
+  },
+  {
+   "source": "csv line 526",
+   "features": [
+    410.6,
+    4587.0,
+    28.7,
+    75.7,
+    1009.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 201.2
+  },
+  {
+   "source": "csv line 527",
+   "features": [
+    431.6,
+    4597.0,
+    27.1,
+    76.4,
+    1007.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 166.2
+  },
+  {
+   "source": "csv line 528",
+   "features": [
+    284.2,
+    4282.0,
+    31.1,
+    78.5,
+    1005.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 162.7
+  },
+  {
+   "source": "csv line 529",
+   "features": [
+    269.7,
+    4567.0,
+    30.7,
+    70.2,
+    1006.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 143.04
+  },
+  {
+   "source": "csv line 530",
+   "features": [
+    369.8,
+    5084.0,
+    28.2,
+    81.0,
+    1004.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 130.12
+  },
+  {
+   "source": "csv line 531",
+   "features": [
+    397.5,
+    4223.0,
+    29.0,
+    74.7,
+    1009.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 164.8
+  },
+  {
+   "source": "csv line 532",
+   "features": [
+    378.2,
+    3647.0,
+    29.1,
+    74.2,
+    1005.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 156.28
+  },
+  {
+   "source": "csv line 533",
+   "features": [
+    481.2,
+    4887.0,
+    29.8,
+    78.6,
+    1005.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 160.26
+  },
+  {
+   "source": "csv line 534",
+   "features": [
+    433.5,
+    3048.0,
+    29.4,
+    83.9,
+    1007.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 148.38
+  },
+  {
+   "source": "csv line 535",
+   "features": [
+    338.6,
+    3851.0,
+    30.5,
+    76.1,
+    1005.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 166.38
+  },
+  {
+   "source": "csv line 536",
+   "features": [
+    271.7,
+    4163.0,
+    30.5,
+    66.3,
+    1007.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 175.56
+  },
+  {
+   "source": "csv line 537",
+   "features": [
+    394.6,
+    5094.0,
+    30.2,
+    83.7,
+    1005.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 180.22
+  },
+  {
+   "source": "csv line 538",
+   "features": [
+    377.4,
+    4546.0,
+    29.5,
+    76.5,
+    1007.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 193.46
+  },
+  {
+   "source": "csv line 539",
+   "features": [
+    367.9,
+    4166.0,
+    27.4,
+    82.0,
+    1006.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 117.5
+  },
+  {
+   "source": "csv line 540",
+   "features": [
+    418.0,
+    4393.0,
+    29.5,
+    74.7,
+    1006.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 161.28
+  },
+  {
+   "source": "csv line 541",
+   "features": [
+    265.3,
+    4558.0,
+    27.4,
+    82.1,
+    1005.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 109.5
+  },
+  {
+   "source": "csv line 542",
+   "features": [
+    343.2,
+    5094.0,
+    29.5,
+    75.6,
+    1006.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 166.8
+  },
+  {
+   "source": "csv line 543",
+   "features": [
+    348.6,
+    4782.0,
+    30.4,
+    73.4,
+    1004.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 170.44
+  },
+  {
+   "source": "csv line 544",
+   "features": [
+    221.1,
+    3882.0,
+    29.5,
+    73.2,
+    1007.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 173.92
+  },
+  {
+   "source": "csv line 545",
+   "features": [
+    291.4,
+    4281.0,
+    29.1,
+    73.1,
+    1009.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 146.86
+  },
+  {
+   "source": "csv line 546",
+   "features": [
+    345.2,
+    4556.0,
+    28.2,
+    75.1,
+    1008.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 201.6
+  },
+  {
+   "source": "csv line 547",
+   "features": [
+    383.4,
+    3147.0,
+    30.1,
+    77.0,
+    1008.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 149.16
+  },
+  {
+   "source": "csv line 548",
+   "features": [
+    372.1,
+    4397.0,
+    29.5,
+    76.2,
+    1005.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 140.08
+  },
+  {
+   "source": "csv line 549",
+   "features": [
+    342.0,
+    4663.0,
+    31.2,
+    76.3,
+    1003.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 123.16
+  },
+  {
+   "source": "csv line 550",
+   "features": [
+    351.5,
+    3816.0,
+    29.9,
+    79.9,
+    1006.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 121.48
+  },
+  {
+   "source": "csv line 551",
+   "features": [
+    324.5,
+    4157.0,
+    27.2,
+    74.1,
+    1008.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 171.12
+  },
+  {
+   "source": "csv line 552",
+   "features": [
+    416.7,
+    4028.0,
+    28.6,
+    71.5,
+    1006.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 178.5
+  },
+  {
+   "source": "csv line 553",
+   "features": [
+    393.5,
+    4651.0,
+    30.2,
+    73.7,
+    1006.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 180.54
+  },
+  {
+   "source": "csv line 554",
+   "features": [
+    298.2,
+    4119.0,
+    28.7,
+    77.1,
+    1003.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 2,
+   "raw_hours": 124.78
+  },
+  {
+   "source": "csv line 555",
+   "features": [
+    367.5,
+    4458.0,
+    28.9,
+    69.1,
+    1004.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 198.94
+  },
+  {
+   "source": "csv line 556",
+   "features": [
+    282.0,
+    4076.0,
+    28.4,
+    75.0,
+    1004.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 125.34
+  },
+  {
+   "source": "csv line 557",
+   "features": [
+    384.7,
+    3985.0,
+    30.5,
+    78.3,
+    1005.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 136.3
+  },
+  {
+   "source": "csv line 558",
+   "features": [
+    372.4,
+    4086.0,
+    28.9,
+    76.3,
+    1007.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 163.32
+  },
+  {
+   "source": "csv line 559",
+   "features": [
+    389.0,
+    3757.0,
+    27.2,
+    78.2,
+    1007.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 163.12
+  },
+  {
+   "source": "csv line 560",
+   "features": [
+    351.4,
+    4885.0,
+    31.8,
+    69.7,
+    1006.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 173.18
+  },
+  {
+   "source": "csv line 561",
+   "features": [
+    305.0,
+    4348.0,
+    29.5,
+    69.6,
+    1008.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 164.5
+  },
+  {
+   "source": "csv line 562",
+   "features": [
+    315.9,
+    4771.0,
+    30.8,
+    68.7,
+    1007.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 180.22
+  },
+  {
+   "source": "csv line 563",
+   "features": [
+    321.2,
+    4720.0,
+    27.5,
+    67.9,
+    1003.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 184.86
+  },
+  {
+   "source": "csv line 564",
+   "features": [
+    491.4,
+    4378.0,
+    28.4,
+    74.1,
+    1005.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 153.38
+  },
+  {
+   "source": "csv line 565",
+   "features": [
+    355.5,
+    4551.0,
+    29.1,
+    75.1,
+    1005.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 154.24
+  },
+  {
+   "source": "csv line 566",
+   "features": [
+    292.8,
+    3392.0,
+    28.6,
+    71.6,
+    1005.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 128.16
+  },
+  {
+   "source": "csv line 567",
+   "features": [
+    340.0,
+    4580.0,
+    28.1,
+    76.3,
+    1006.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 154.7
+  },
+  {
+   "source": "csv line 568",
+   "features": [
+    306.9,
+    4419.0,
+    28.4,
+    74.2,
+    1006.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 149.5
+  },
+  {
+   "source": "csv line 569",
+   "features": [
+    344.2,
+    3683.0,
+    29.8,
+    75.3,
+    1005.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 169.82
+  },
+  {
+   "source": "csv line 570",
+   "features": [
+    253.5,
+    3915.0,
+    30.3,
+    69.3,
+    1006.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 142.48
+  },
+  {
+   "source": "csv line 571",
+   "features": [
+    372.0,
+    4515.0,
+    29.3,
+    76.5,
+    1007.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 176.1
+  },
+  {
+   "source": "csv line 572",
+   "features": [
+    261.1,
+    4032.0,
+    29.5,
+    70.7,
+    1007.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 157.74
+  },
+  {
+   "source": "csv line 573",
+   "features": [
+    317.5,
+    4936.0,
+    29.9,
+    79.1,
+    1005.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 176.82
+  },
+  {
+   "source": "csv line 574",
+   "features": [
+    338.5,
+    3931.0,
+    26.9,
+    82.5,
+    1009.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 167.74
+  },
+  {
+   "source": "csv line 575",
+   "features": [
+    318.7,
+    3791.0,
+    26.9,
+    82.8,
+    1008.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 121.32
+  },
+  {
+   "source": "csv line 576",
+   "features": [
+    383.5,
+    4223.0,
+    27.3,
+    79.1,
+    1004.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 128.08
+  },
+  {
+   "source": "csv line 577",
+   "features": [
+    396.1,
+    5094.0,
+    28.2,
+    77.6,
+    1009.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 190.7
+  },
+  {
+   "source": "csv line 578",
+   "features": [
+    367.0,
+    4030.0,
+    28.6,
+    67.0,
+    1004.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 177.94
+  },
+  {
+   "source": "csv line 579",
+   "features": [
+    352.6,
+    4384.0,
+    30.1,
+    78.5,
+    1007.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 154.74
+  },
+  {
+   "source": "csv line 580",
+   "features": [
+    384.2,
+    4284.0,
+    28.5,
+    79.8,
+    1008.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 172.74
+  },
+  {
+   "source": "csv line 581",
+   "features": [
+    363.7,
+    3676.0,
+    27.6,
+    76.0,
+    1005.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 178.46
+  },
+  {
+   "source": "csv line 582",
+   "features": [
+    265.4,
+    3915.0,
+    29.5,
+    74.3,
+    1007.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 186.58
+  },
+  {
+   "source": "csv line 583",
+   "features": [
+    339.1,
+    4438.0,
+    31.0,
+    69.2,
+    1004.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 174.7
+  },
+  {
+   "source": "csv line 584",
+   "features": [
+    321.2,
+    4338.0,
+    30.5,
+    72.6,
+    1008.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 121.8
+  },
+  {
+   "source": "csv line 585",
+   "features": [
+    462.5,
+    4845.0,
+    27.1,
+    70.2,
+    1008.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 156.98
+  },
+  {
+   "source": "csv line 586",
+   "features": [
+    491.4,
+    4825.0,
+    28.5,
+    69.2,
+    1007.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 183.24
+  },
+  {
+   "source": "csv line 587",
+   "features": [
+    404.8,
+    3877.0,
+    29.7,
+    73.1,
+    1007.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 156.9
+  },
+  {
+   "source": "csv line 588",
+   "features": [
+    432.1,
+    4323.0,
+    31.3,
+    77.7,
+    1006.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 145.38
+  },
+  {
+   "source": "csv line 589",
+   "features": [
+    345.4,
+    4252.0,
+    30.0,
+    71.6,
+    1006.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 186.48
+  },
+  {
+   "source": "csv line 590",
+   "features": [
+    480.3,
+    4017.0,
+    29.0,
+    75.2,
+    1005.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 172.58
+  },
+  {
+   "source": "csv line 591",
+   "features": [
+    337.7,
+    4048.0,
+    30.2,
+    74.6,
+    1005.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 164.08
+  },
+  {
+   "source": "csv line 592",
+   "features": [
+    457.3,
+    4195.0,
+    29.4,
+    78.5,
+    1007.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 183.98
+  },
+  {
+   "source": "csv line 593",
+   "features": [
+    413.4,
+    5090.0,
+    29.5,
+    73.0,
+    1006.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 137.18
+  },
+  {
+   "source": "csv line 594",
+   "features": [
+    346.4,
+    4432.0,
+    27.9,
+    79.3,
+    1003.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 119.6
+  },
+  {
+   "source": "csv line 595",
+   "features": [
+    360.1,
+    3766.0,
+    29.5,
+    69.3,
+    1007.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 156.1
+  },
+  {
+   "source": "csv line 596",
+   "features": [
+    322.0,
+    4256.0,
+    28.9,
+    77.0,
+    1007.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 149.88
+  },
+  {
+   "source": "csv line 597",
+   "features": [
+    418.9,
+    4927.0,
+    27.7,
+    73.3,
+    1004.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 153.92
+  },
+  {
+   "source": "csv line 598",
+   "features": [
+    251.8,
+    4133.0,
+    30.2,
+    74.1,
+    1005.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 138.02
+  },
+  {
+   "source": "csv line 599",
+   "features": [
+    301.3,
+    5094.0,
+    32.2,
+    81.7,
+    1008.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 116.32
+  },
+  {
+   "source": "csv line 600",
+   "features": [
+    377.0,
+    4137.0,
+    28.6,
+    68.4,
+    1007.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 189.88
+  },
+  {
+   "source": "csv line 601",
+   "features": [
+    321.4,
+    3745.0,
+    31.2,
+    80.1,
+    1003.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 110.28
+  },
+  {
+   "source": "csv line 602",
+   "features": [
+    423.8,
+    4189.0,
+    31.0,
+    77.4,
+    1003.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 124.04
+  },
+  {
+   "source": "csv line 603",
+   "features": [
+    220.2,
+    5094.0,
+    31.9,
+    70.9,
+    1007.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 130.56
+  },
+  {
+   "source": "csv line 604",
+   "features": [
+    383.9,
+    4371.0,
+    29.3,
+    76.4,
+    1007.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 147.06
+  },
+  {
+   "source": "csv line 605",
+   "features": [
+    418.2,
+    4788.0,
+    29.9,
+    80.8,
+    1006.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 154.0
+  },
+  {
+   "source": "csv line 606",
+   "features": [
+    353.1,
+    4255.0,
+    30.1,
+    79.4,
+    1007.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 108.0
+  },
+  {
+   "source": "csv line 607",
+   "features": [
+    447.5,
+    5010.0,
+    28.7,
+    73.6,
+    1004.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 163.54
+  },
+  {
+   "source": "csv line 608",
+   "features": [
+    383.4,
+    3845.0,
+    28.4,
+    64.6,
+    1008.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 186.04
+  },
+  {
+   "source": "csv line 609",
+   "features": [
+    466.9,
+    4157.0,
+    30.8,
+    74.2,
+    1007.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 180.32
+  },
+  {
+   "source": "csv line 610",
+   "features": [
+    338.7,
+    3443.0,
+    29.5,
+    74.5,
+    1004.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 167.26
+  },
+  {
+   "source": "csv line 611",
+   "features": [
+    353.4,
+    4246.0,
+    30.0,
+    75.7,
+    1005.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 137.26
+  },
+  {
+   "source": "csv line 612",
+   "features": [
+    419.1,
+    4717.0,
+    29.0,
+    72.9,
+    1007.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 137.8
+  },
+  {
+   "source": "csv line 613",
+   "features": [
+    402.3,
+    4327.0,
+    30.4,
+    83.9,
+    1006.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 131.7
+  },
+  {
+   "source": "csv line 614",
+   "features": [
+    293.2,
+    4564.0,
+    30.9,
+    69.3,
+    1006.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 153.16
+  },
+  {
+   "source": "csv line 615",
+   "features": [
+    216.2,
+    5094.0,
+    30.9,
+    71.9,
+    1005.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 142.8
+  },
+  {
+   "source": "csv line 616",
+   "features": [
+    387.4,
+    5091.0,
+    29.2,
+    76.1,
+    1009.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 167.92
+  },
+  {
+   "source": "csv line 617",
+   "features": [
+    487.4,
+    4673.0,
+    27.5,
+    71.4,
+    1006.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 178.98
+  },
+  {
+   "source": "csv line 618",
+   "features": [
+    491.4,
+    3740.0,
+    29.6,
+    75.1,
+    1006.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 181.94
+  },
+  {
+   "source": "csv line 619",
+   "features": [
+    187.0,
+    4291.0,
+    29.0,
+    70.8,
+    1006.6
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 108.52
+  },
+  {
+   "source": "csv line 620",
+   "features": [
+    271.7,
+    4712.0,
+    29.0,
+    73.8,
+    1004.4
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 119.18
+  },
+  {
+   "source": "csv line 621",
+   "features": [
+    377.7,
+    4137.0,
+    29.3,
+    77.9,
+    1005.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 124.78
+  },
+  {
+   "source": "csv line 622",
+   "features": [
+    425.8,
+    4047.0,
+    26.9,
+    76.7,
+    1004.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 125.24
+  },
+  {
+   "source": "csv line 623",
+   "features": [
+    430.2,
+    3496.0,
+    29.1,
+    69.2,
+    1008.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 169.56
+  },
+  {
+   "source": "csv line 624",
+   "features": [
+    368.1,
+    4401.0,
+    28.7,
+    81.0,
+    1005.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 116.46
+  },
+  {
+   "source": "csv line 625",
+   "features": [
+    365.2,
+    3696.0,
+    27.3,
+    78.9,
+    1004.0
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 131.34
+  },
+  {
+   "source": "csv line 626",
+   "features": [
+    357.6,
+    3873.0,
+    27.9,
+    73.9,
+    1005.0
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 139.62
+  },
+  {
+   "source": "csv line 627",
+   "features": [
+    463.6,
+    3195.0,
+    28.9,
+    74.2,
+    1005.8
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 158.62
+  },
+  {
+   "source": "csv line 628",
+   "features": [
+    311.9,
+    4387.0,
+    31.1,
+    72.2,
+    1005.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 133.0
+  },
+  {
+   "source": "csv line 629",
+   "features": [
+    369.1,
+    4060.0,
+    28.2,
+    72.1,
+    1004.7
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 169.86
+  },
+  {
+   "source": "csv line 630",
+   "features": [
+    318.5,
+    3915.0,
+    28.2,
+    77.6,
+    1004.2
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 5,
+   "raw_hours": 119.02
+  },
+  {
+   "source": "csv line 631",
+   "features": [
+    377.4,
+    4349.0,
+    29.7,
+    76.4,
+    1008.5
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 168.16
+  },
+  {
+   "source": "csv line 632",
+   "features": [
+    247.4,
+    4401.0,
+    30.9,
+    78.2,
+    1007.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 134.94
+  },
+  {
+   "source": "csv line 633",
+   "features": [
+    259.6,
+    4266.0,
+    26.9,
+    78.7,
+    1007.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 167.98
+  },
+  {
+   "source": "csv line 634",
+   "features": [
+    254.1,
+    4901.0,
+    28.9,
+    76.8,
+    1006.3
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 132.66
+  },
+  {
+   "source": "csv line 635",
+   "features": [
+    316.8,
+    3873.0,
+    29.2,
+    82.3,
+    1006.9
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 98.96
+  },
+  {
+   "source": "csv line 636",
+   "features": [
+    244.7,
+    3473.0,
+    29.1,
+    88.1,
+    1004.2
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 107.24
+  },
+  {
+   "source": "csv line 637",
+   "features": [
+    255.7,
+    3663.0,
+    29.1,
+    82.5,
+    1005.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 101.86
+  },
+  {
+   "source": "csv line 638",
+   "features": [
+    329.1,
+    4714.0,
+    28.5,
+    78.1,
+    1005.9
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 124.48
+  },
+  {
+   "source": "csv line 639",
+   "features": [
+    420.2,
+    4504.0,
+    27.5,
+    73.7,
+    1009.2
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 187.06
+  },
+  {
+   "source": "csv line 640",
+   "features": [
+    372.3,
+    4085.0,
+    28.5,
+    79.7,
+    1008.0
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 144.68
+  },
+  {
+   "source": "csv line 641",
+   "features": [
+    383.4,
+    3935.0,
+    30.3,
+    75.0,
+    1008.7
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 159.0
+  },
+  {
+   "source": "csv line 642",
+   "features": [
+    412.2,
+    4516.0,
+    30.6,
+    74.0,
+    1008.4
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 159.8
+  },
+  {
+   "source": "csv line 643",
+   "features": [
+    347.6,
+    4277.0,
+    29.1,
+    70.2,
+    1008.0
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 0,
+   "raw_hours": 169.92
+  },
+  {
+   "source": "csv line 644",
+   "features": [
+    372.5,
+    3062.0,
+    28.6,
+    70.7,
+    1007.0
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 178.62
+  },
+  {
+   "source": "csv line 645",
+   "features": [
+    387.2,
+    3487.0,
+    27.2,
+    73.9,
+    1008.6
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 178.08
+  },
+  {
+   "source": "csv line 646",
+   "features": [
+    463.6,
+    4242.0,
+    30.4,
+    76.0,
+    1006.1
+   ],
+   "csvLabel": 0,
+   "ripeness_class": 0,
+   "raw_hours": 156.76
+  },
+  {
+   "source": "csv line 647",
+   "features": [
+    211.0,
+    3236.0,
+    30.2,
+    88.3,
+    1004.9
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 91.36
+  },
+  {
+   "source": "csv line 648",
+   "features": [
+    235.0,
+    3245.0,
+    31.1,
+    77.8,
+    1006.3
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 95.46
+  },
+  {
+   "source": "csv line 649",
+   "features": [
+    383.1,
+    3932.0,
+    29.6,
+    81.4,
+    1004.3
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 129.36
+  },
+  {
+   "source": "csv line 650",
+   "features": [
+    403.6,
+    3328.0,
+    30.0,
+    78.1,
+    1004.6
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 133.58
+  },
+  {
+   "source": "csv line 651",
+   "features": [
+    383.4,
+    4142.0,
+    28.8,
+    79.2,
+    1007.8
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 152.06
+  },
+  {
+   "source": "csv line 652",
+   "features": [
+    344.9,
+    3840.0,
+    29.3,
+    72.3,
+    1007.6
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 167.7
+  },
+  {
+   "source": "csv line 653",
+   "features": [
+    309.3,
+    3928.0,
+    29.4,
+    72.5,
+    1005.9
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 113.78
+  },
+  {
+   "source": "csv line 654",
+   "features": [
+    379.3,
+    3467.0,
+    29.2,
+    73.3,
+    1006.2
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 0,
+   "raw_hours": 154.4
+  },
+  {
+   "source": "csv line 655",
+   "features": [
+    246.5,
+    5094.0,
+    30.0,
+    72.6,
+    1004.1
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 0,
+   "raw_hours": 138.2
+  },
+  {
+   "source": "csv line 656",
+   "features": [
+    355.5,
+    4251.0,
+    29.2,
+    74.6,
+    1007.2
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 170.72
+  },
+  {
+   "source": "csv line 657",
+   "features": [
+    194.1,
+    3835.0,
+    28.7,
+    80.0,
+    1005.8
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 95.74
+  },
+  {
+   "source": "csv line 658",
+   "features": [
+    232.9,
+    3919.0,
+    30.3,
+    70.9,
+    1005.1
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 99.88
+  },
+  {
+   "source": "csv line 659",
+   "features": [
+    471.2,
+    3670.0,
+    29.3,
+    78.7,
+    1007.2
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 138.76
+  },
+  {
+   "source": "csv line 660",
+   "features": [
+    383.7,
+    4016.0,
+    30.7,
+    82.1,
+    1004.1
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 132.14
+  },
+  {
+   "source": "csv line 661",
+   "features": [
+    314.6,
+    4680.0,
+    30.7,
+    82.2,
+    1006.8
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 135.6
+  },
+  {
+   "source": "csv line 662",
+   "features": [
+    399.5,
+    4845.0,
+    30.6,
+    81.7,
+    1005.8
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 154.4
+  },
+  {
+   "source": "csv line 663",
+   "features": [
+    306.5,
+    3577.0,
+    27.3,
+    85.9,
+    1006.9
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 102.16
+  },
+  {
+   "source": "csv line 664",
+   "features": [
+    311.8,
+    3529.0,
+    30.4,
+    77.8,
+    1003.8
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 107.04
+  },
+  {
+   "source": "csv line 665",
+   "features": [
+    284.4,
+    3879.0,
+    29.0,
+    76.1,
+    1005.2
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 127.08
+  },
+  {
+   "source": "csv line 666",
+   "features": [
+    298.1,
+    3372.0,
+    30.3,
+    76.9,
+    1004.7
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 140.34
+  },
+  {
+   "source": "csv line 667",
+   "features": [
+    341.5,
+    4092.0,
+    30.5,
+    81.9,
+    1008.8
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 85.52
+  },
+  {
+   "source": "csv line 668",
+   "features": [
+    359.1,
+    3880.0,
+    29.2,
+    82.4,
+    1004.8
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 95.62
+  },
+  {
+   "source": "csv line 669",
+   "features": [
+    269.1,
+    3356.0,
+    31.1,
+    78.2,
+    1003.5
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 122.16
+  },
+  {
+   "source": "csv line 670",
+   "features": [
+    272.0,
+    3369.0,
+    30.6,
+    79.1,
+    1004.3
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 108.86
+  },
+  {
+   "source": "csv line 671",
+   "features": [
+    331.4,
+    3942.0,
+    31.9,
+    83.5,
+    1004.3
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 135.12
+  },
+  {
+   "source": "csv line 672",
+   "features": [
+    295.0,
+    3247.0,
+    30.1,
+    78.1,
+    1005.6
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 148.06
+  },
+  {
+   "source": "csv line 673",
+   "features": [
+    316.0,
+    3787.0,
+    28.8,
+    72.8,
+    1004.9
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 114.92
+  },
+  {
+   "source": "csv line 674",
+   "features": [
+    335.9,
+    3378.0,
+    28.1,
+    73.6,
+    1004.0
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 0,
+   "raw_hours": 133.9
+  },
+  {
+   "source": "csv line 675",
+   "features": [
+    434.0,
+    3850.0,
+    29.0,
+    80.7,
+    1003.7
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 146.28
+  },
+  {
+   "source": "csv line 676",
+   "features": [
+    252.8,
+    3530.0,
+    30.6,
+    74.2,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 87.44
+  },
+  {
+   "source": "csv line 677",
+   "features": [
+    267.0,
+    3916.0,
+    29.1,
+    79.3,
+    1006.9
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 89.06
+  },
+  {
+   "source": "csv line 678",
+   "features": [
+    343.1,
+    3813.0,
+    31.9,
+    84.5,
+    1006.3
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 103.08
+  },
+  {
+   "source": "csv line 679",
+   "features": [
+    302.7,
+    4566.0,
+    29.8,
+    77.4,
+    1005.1
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 107.7
+  },
+  {
+   "source": "csv line 680",
+   "features": [
+    232.2,
+    4081.0,
+    28.1,
+    77.1,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 123.38
+  },
+  {
+   "source": "csv line 681",
+   "features": [
+    341.5,
+    3834.0,
+    29.8,
+    77.9,
+    1008.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 127.0
+  },
+  {
+   "source": "csv line 682",
+   "features": [
+    380.6,
+    3408.0,
+    29.5,
+    76.2,
+    1005.7
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 138.18
+  },
+  {
+   "source": "csv line 683",
+   "features": [
+    346.4,
+    3592.0,
+    27.6,
+    72.9,
+    1005.5
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 150.04
+  },
+  {
+   "source": "csv line 684",
+   "features": [
+    327.1,
+    4175.0,
+    28.3,
+    77.7,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 0,
+   "raw_hours": 126.46
+  },
+  {
+   "source": "csv line 685",
+   "features": [
+    406.9,
+    3575.0,
+    29.4,
+    78.9,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 1,
+   "raw_hours": 100.66
+  },
+  {
+   "source": "csv line 686",
+   "features": [
+    302.8,
+    4779.0,
+    28.6,
+    84.4,
+    1006.6
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 120.84
+  },
+  {
+   "source": "csv line 687",
+   "features": [
+    361.3,
+    4072.0,
+    29.6,
+    76.8,
+    1009.5
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 160.24
+  },
+  {
+   "source": "csv line 688",
+   "features": [
+    311.9,
+    2914.0,
+    30.7,
+    81.0,
+    1006.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 79.28
+  },
+  {
+   "source": "csv line 689",
+   "features": [
+    354.2,
+    3630.0,
+    28.9,
+    79.2,
+    1006.0
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 108.92
+  },
+  {
+   "source": "csv line 690",
+   "features": [
+    240.4,
+    3339.0,
+    29.3,
+    77.2,
+    1006.6
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 110.7
+  },
+  {
+   "source": "csv line 691",
+   "features": [
+    386.3,
+    3421.0,
+    29.2,
+    79.8,
+    1005.7
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 92.4
+  },
+  {
+   "source": "csv line 692",
+   "features": [
+    400.1,
+    3221.0,
+    28.8,
+    74.9,
+    1006.8
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 0,
+   "raw_hours": 167.18
+  },
+  {
+   "source": "csv line 693",
+   "features": [
+    260.8,
+    3534.0,
+    26.9,
+    77.4,
+    1003.5
+   ],
+   "csvLabel": 1,
+   "ripeness_class": 1,
+   "raw_hours": 146.98
+  },
+  {
+   "source": "csv line 694",
+   "features": [
+    340.5,
+    3882.0,
+    30.8,
+    81.7,
+    1004.8
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 80.14
+  },
+  {
+   "source": "csv line 695",
+   "features": [
+    357.4,
+    3007.0,
+    29.7,
+    83.3,
+    1005.8
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 86.92
+  },
+  {
+   "source": "csv line 696",
+   "features": [
+    285.8,
+    3444.0,
+    29.1,
+    80.1,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 102.74
+  },
+  {
+   "source": "csv line 697",
+   "features": [
+    284.5,
+    3863.0,
+    32.4,
+    79.2,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 99.02
+  },
+  {
+   "source": "csv line 698",
+   "features": [
+    255.2,
+    4084.0,
+    29.3,
+    79.4,
+    1003.6
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 123.9
+  },
+  {
+   "source": "csv line 699",
+   "features": [
+    348.2,
+    3680.0,
+    30.2,
+    81.5,
+    1004.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 96.08
+  },
+  {
+   "source": "csv line 700",
+   "features": [
+    315.3,
+    3528.0,
+    30.4,
+    78.9,
+    1004.6
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 77.48
+  },
+  {
+   "source": "csv line 701",
+   "features": [
+    277.6,
+    4294.0,
+    28.9,
+    74.9,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 120.72
+  },
+  {
+   "source": "csv line 702",
+   "features": [
+    382.3,
+    3299.0,
+    29.6,
+    74.7,
+    1004.6
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 146.0
+  },
+  {
+   "source": "csv line 703",
+   "features": [
+    257.5,
+    3668.0,
+    30.1,
+    83.0,
+    1004.6
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 87.14
+  },
+  {
+   "source": "csv line 704",
+   "features": [
+    249.6,
+    3815.0,
+    30.8,
+    84.3,
+    1004.2
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 79.72
+  },
+  {
+   "source": "csv line 705",
+   "features": [
+    337.8,
+    4083.0,
+    29.5,
+    86.3,
+    1005.9
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 91.56
+  },
+  {
+   "source": "csv line 706",
+   "features": [
+    407.5,
+    4281.0,
+    30.6,
+    85.4,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 117.84
+  },
+  {
+   "source": "csv line 707",
+   "features": [
+    405.8,
+    3507.0,
+    31.2,
+    82.3,
+    1007.6
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 121.08
+  },
+  {
+   "source": "csv line 708",
+   "features": [
+    238.7,
+    3939.0,
+    27.5,
+    88.3,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 80.56
+  },
+  {
+   "source": "csv line 709",
+   "features": [
+    263.4,
+    3980.0,
+    31.0,
+    80.5,
+    1006.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 89.72
+  },
+  {
+   "source": "csv line 710",
+   "features": [
+    342.0,
+    2982.0,
+    29.0,
+    74.1,
+    1006.1
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 147.82
+  },
+  {
+   "source": "csv line 711",
+   "features": [
+    369.0,
+    3637.0,
+    27.9,
+    79.0,
+    1004.2
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 1,
+   "raw_hours": 123.46
+  },
+  {
+   "source": "csv line 712",
+   "features": [
+    224.0,
+    3817.0,
+    29.0,
+    79.6,
+    1004.7
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 81.08
+  },
+  {
+   "source": "csv line 713",
+   "features": [
+    351.0,
+    4240.0,
+    31.5,
+    78.0,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 111.2
+  },
+  {
+   "source": "csv line 714",
+   "features": [
+    315.1,
+    3733.0,
+    30.2,
+    76.7,
+    1005.1
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 107.58
+  },
+  {
+   "source": "csv line 715",
+   "features": [
+    298.4,
+    4040.0,
+    31.9,
+    75.9,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 104.82
+  },
+  {
+   "source": "csv line 716",
+   "features": [
+    291.0,
+    2963.0,
+    29.5,
+    83.7,
+    1008.1
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 71.22
+  },
+  {
+   "source": "csv line 717",
+   "features": [
+    402.9,
+    3946.0,
+    31.3,
+    84.6,
+    1006.7
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 120.66
+  },
+  {
+   "source": "csv line 718",
+   "features": [
+    295.5,
+    3870.0,
+    28.8,
+    80.0,
+    1004.8
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 116.8
+  },
+  {
+   "source": "csv line 719",
+   "features": [
+    315.0,
+    3889.0,
+    29.3,
+    81.0,
+    1003.5
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 2,
+   "raw_hours": 76.4
+  },
+  {
+   "source": "csv line 720",
+   "features": [
+    253.1,
+    4045.0,
+    29.0,
+    78.2,
+    1003.9
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 96.14
+  },
+  {
+   "source": "csv line 721",
+   "features": [
+    291.9,
+    4472.0,
+    30.7,
+    85.6,
+    1004.2
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 55.1
+  },
+  {
+   "source": "csv line 722",
+   "features": [
+    198.6,
+    4092.0,
+    29.9,
+    81.4,
+    1005.2
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 6,
+   "raw_hours": 39.1
+  },
+  {
+   "source": "csv line 723",
+   "features": [
+    322.3,
+    2393.0,
+    30.1,
+    79.9,
+    1008.5
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 101.0
+  },
+  {
+   "source": "csv line 724",
+   "features": [
+    376.3,
+    3124.0,
+    29.9,
+    83.2,
+    1005.6
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 91.06
+  },
+  {
+   "source": "csv line 725",
+   "features": [
+    364.3,
+    3853.0,
+    28.0,
+    76.4,
+    1003.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 113.4
+  },
+  {
+   "source": "csv line 726",
+   "features": [
+    330.4,
+    3122.0,
+    31.3,
+    83.3,
+    1003.5
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 117.0
+  },
+  {
+   "source": "csv line 727",
+   "features": [
+    342.1,
+    3695.0,
+    27.9,
+    85.3,
+    1006.8
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 115.58
+  },
+  {
+   "source": "csv line 728",
+   "features": [
+    349.3,
+    4744.0,
+    29.7,
+    78.6,
+    1007.4
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 95.92
+  },
+  {
+   "source": "csv line 729",
+   "features": [
+    293.5,
+    4470.0,
+    30.4,
+    87.0,
+    1004.5
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 61.02
+  },
+  {
+   "source": "csv line 730",
+   "features": [
+    192.7,
+    3049.0,
+    26.9,
+    82.7,
+    1004.9
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 79.8
+  },
+  {
+   "source": "csv line 731",
+   "features": [
+    330.7,
+    3421.0,
+    31.6,
+    74.3,
+    1007.1
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 0,
+   "raw_hours": 90.78
+  },
+  {
+   "source": "csv line 732",
+   "features": [
+    242.7,
+    3670.0,
+    28.2,
+    88.3,
+    1004.2
+   ],
+   "csvLabel": 2,
+   "ripeness_class": 2,
+   "raw_hours": 124.78
+  },
+  {
+   "source": "csv line 733",
+   "features": [
+    322.5,
+    3410.0,
+    30.5,
+    85.3,
+    1004.1
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 76.6
+  },
+  {
+   "source": "csv line 734",
+   "features": [
+    248.1,
+    3546.0,
+    26.9,
+    79.1,
+    1005.1
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 95.86
+  },
+  {
+   "source": "csv line 735",
+   "features": [
+    324.3,
+    3345.0,
+    27.9,
+    77.1,
+    1004.9
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 117.92
+  },
+  {
+   "source": "csv line 736",
+   "features": [
+    209.8,
+    3078.0,
+    29.3,
+    80.5,
+    1003.9
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 2,
+   "raw_hours": 73.52
+  },
+  {
+   "source": "csv line 737",
+   "features": [
+    204.5,
+    4060.0,
+    27.9,
+    88.3,
+    1006.9
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 43.24
+  },
+  {
+   "source": "csv line 738",
+   "features": [
+    241.5,
+    4381.0,
+    30.6,
+    76.0,
+    1004.9
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 88.56
+  },
+  {
+   "source": "csv line 739",
+   "features": [
+    274.8,
+    3417.0,
+    26.9,
+    82.3,
+    1006.4
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 66.26
+  },
+  {
+   "source": "csv line 740",
+   "features": [
+    376.0,
+    3090.0,
+    30.5,
+    88.3,
+    1003.8
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 1,
+   "raw_hours": 93.04
+  },
+  {
+   "source": "csv line 741",
+   "features": [
+    316.8,
+    4114.0,
+    27.4,
+    85.3,
+    1006.1
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 6,
+   "raw_hours": 86.36
+  },
+  {
+   "source": "csv line 742",
+   "features": [
+    330.5,
+    3600.0,
+    27.3,
+    85.6,
+    1009.0
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 94.56
+  },
+  {
+   "source": "csv line 743",
+   "features": [
+    361.0,
+    3481.0,
+    26.9,
+    76.1,
+    1008.1
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 0,
+   "raw_hours": 169.02
+  },
+  {
+   "source": "csv line 744",
+   "features": [
+    206.9,
+    3629.0,
+    30.4,
+    77.6,
+    1004.7
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 47.08
+  },
+  {
+   "source": "csv line 745",
+   "features": [
+    340.7,
+    3504.0,
+    29.8,
+    74.2,
+    1003.5
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 98.1
+  },
+  {
+   "source": "csv line 746",
+   "features": [
+    281.0,
+    3284.0,
+    31.4,
+    78.8,
+    1004.7
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 68.02
+  },
+  {
+   "source": "csv line 747",
+   "features": [
+    301.9,
+    3864.0,
+    27.5,
+    88.3,
+    1007.3
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 35.1
+  },
+  {
+   "source": "csv line 748",
+   "features": [
+    302.3,
+    4390.0,
+    29.2,
+    74.5,
+    1005.8
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 107.78
+  },
+  {
+   "source": "csv line 749",
+   "features": [
+    319.2,
+    3373.0,
+    29.9,
+    84.7,
+    1005.0
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 93.78
+  },
+  {
+   "source": "csv line 750",
+   "features": [
+    327.1,
+    4285.0,
+    29.1,
+    84.0,
+    1006.4
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 6,
+   "raw_hours": 75.44
+  },
+  {
+   "source": "csv line 751",
+   "features": [
+    276.9,
+    3673.0,
+    30.1,
+    81.4,
+    1006.8
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 48.78
+  },
+  {
+   "source": "csv line 752",
+   "features": [
+    265.0,
+    3181.0,
+    30.8,
+    77.1,
+    1004.5
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 68.72
+  },
+  {
+   "source": "csv line 753",
+   "features": [
+    321.0,
+    4265.0,
+    28.3,
+    88.3,
+    1007.1
+   ],
+   "csvLabel": 3,
+   "ripeness_class": 3,
+   "raw_hours": 55.54
+  },
+  {
+   "source": "csv line 754",
+   "features": [
+    260.3,
+    3927.0,
+    27.0,
+    82.1,
+    1005.5
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 77.34
+  },
+  {
+   "source": "csv line 755",
+   "features": [
+    328.1,
+    3161.0,
+    30.6,
+    82.6,
+    1007.4
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 91.32
+  },
+  {
+   "source": "csv line 756",
+   "features": [
+    117.2,
+    4142.0,
+    31.4,
+    82.6,
+    1005.4
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 6,
+   "raw_hours": 25.38
+  },
+  {
+   "source": "csv line 757",
+   "features": [
+    404.1,
+    3704.0,
+    29.1,
+    79.7,
+    1003.5
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 82.54
+  },
+  {
+   "source": "csv line 758",
+   "features": [
+    322.1,
+    3686.0,
+    29.5,
+    70.6,
+    1004.4
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 105.22
+  },
+  {
+   "source": "csv line 759",
+   "features": [
+    206.3,
+    4667.0,
+    31.3,
+    75.1,
+    1006.2
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 93.02
+  },
+  {
+   "source": "csv line 760",
+   "features": [
+    274.6,
+    3678.0,
+    28.1,
+    77.7,
+    1004.4
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 1,
+   "raw_hours": 109.1
+  },
+  {
+   "source": "csv line 761",
+   "features": [
+    315.8,
+    4787.0,
+    30.6,
+    72.9,
+    1005.9
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 100.56
+  },
+  {
+   "source": "csv line 762",
+   "features": [
+    363.2,
+    4462.0,
+    30.7,
+    75.9,
+    1009.8
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 123.76
+  },
+  {
+   "source": "csv line 763",
+   "features": [
+    270.4,
+    4312.0,
+    28.9,
+    87.3,
+    1003.5
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 6,
+   "raw_hours": 55.3
+  },
+  {
+   "source": "csv line 764",
+   "features": [
+    371.8,
+    4363.0,
+    31.2,
+    77.5,
+    1006.3
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 107.98
+  },
+  {
+   "source": "csv line 765",
+   "features": [
+    368.3,
+    3497.0,
+    31.3,
+    76.5,
+    1003.5
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 103.34
+  },
+  {
+   "source": "csv line 766",
+   "features": [
+    358.6,
+    3797.0,
+    31.1,
+    79.1,
+    1006.6
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 1,
+   "raw_hours": 98.74
+  },
+  {
+   "source": "csv line 767",
+   "features": [
+    214.9,
+    3107.0,
+    28.3,
+    77.2,
+    1004.9
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 73.94
+  },
+  {
+   "source": "csv line 768",
+   "features": [
+    158.2,
+    4408.0,
+    30.3,
+    83.0,
+    1005.2
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 50.22
+  },
+  {
+   "source": "csv line 769",
+   "features": [
+    279.3,
+    3150.0,
+    28.8,
+    74.7,
+    1006.8
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 113.8
+  },
+  {
+   "source": "csv line 770",
+   "features": [
+    330.8,
+    3880.0,
+    30.2,
+    75.5,
+    1005.9
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 65.48
+  },
+  {
+   "source": "csv line 771",
+   "features": [
+    149.1,
+    3738.0,
+    29.8,
+    75.8,
+    1005.5
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 48.36
+  },
+  {
+   "source": "csv line 772",
+   "features": [
+    400.8,
+    3986.0,
+    29.2,
+    80.5,
+    1004.8
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 72.9
+  },
+  {
+   "source": "csv line 773",
+   "features": [
+    491.4,
+    3884.0,
+    27.7,
+    76.2,
+    1004.3
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 92.76
+  },
+  {
+   "source": "csv line 774",
+   "features": [
+    267.7,
+    4567.0,
+    31.7,
+    86.7,
+    1006.2
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 52.14
+  },
+  {
+   "source": "csv line 775",
+   "features": [
+    287.3,
+    4730.0,
+    32.6,
+    77.1,
+    1004.3
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 89.5
+  },
+  {
+   "source": "csv line 776",
+   "features": [
+    324.7,
+    4919.0,
+    32.2,
+    78.0,
+    1004.1
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 0,
+   "raw_hours": 125.64
+  },
+  {
+   "source": "csv line 777",
+   "features": [
+    242.1,
+    3769.0,
+    29.7,
+    81.6,
+    1007.1
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 24.9
+  },
+  {
+   "source": "csv line 778",
+   "features": [
+    247.3,
+    3718.0,
+    28.7,
+    79.4,
+    1006.6
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 47.1
+  },
+  {
+   "source": "csv line 779",
+   "features": [
+    312.1,
+    5094.0,
+    30.6,
+    78.8,
+    1005.6
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 0,
+   "raw_hours": 138.3
+  },
+  {
+   "source": "csv line 780",
+   "features": [
+    312.8,
+    3066.0,
+    31.0,
+    79.6,
+    1008.0
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 69.18
+  },
+  {
+   "source": "csv line 781",
+   "features": [
+    284.0,
+    4174.0,
+    30.9,
+    75.0,
+    1007.3
+   ],
+   "csvLabel": 4,
+   "ripeness_class": 4,
+   "raw_hours": 86.34
+  },
+  {
+   "source": "csv line 782",
+   "features": [
+    306.9,
+    4024.0,
+    31.6,
+    75.0,
+    1009.8
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 6,
+   "raw_hours": 19.68
+  },
+  {
+   "source": "csv line 783",
+   "features": [
+    303.3,
+    2705.0,
+    31.2,
+    82.2,
+    1004.8
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 45.78
+  },
+  {
+   "source": "csv line 784",
+   "features": [
+    245.8,
+    3998.0,
+    28.3,
+    87.3,
+    1006.3
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 6,
+   "raw_hours": 58.3
+  },
+  {
+   "source": "csv line 785",
+   "features": [
+    358.2,
+    3452.0,
+    30.2,
+    84.9,
+    1006.2
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 69.38
+  },
+  {
+   "source": "csv line 786",
+   "features": [
+    359.6,
+    3390.0,
+    28.6,
+    75.9,
+    1006.1
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 113.96
+  },
+  {
+   "source": "csv line 787",
+   "features": [
+    384.2,
+    3904.0,
+    29.9,
+    79.3,
+    1006.3
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 54.14
+  },
+  {
+   "source": "csv line 788",
+   "features": [
+    269.4,
+    4203.0,
+    29.3,
+    72.3,
+    1005.3
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 81.12
+  },
+  {
+   "source": "csv line 789",
+   "features": [
+    302.1,
+    3792.0,
+    30.4,
+    75.3,
+    1006.1
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 86.54
+  },
+  {
+   "source": "csv line 790",
+   "features": [
+    163.1,
+    3809.0,
+    29.4,
+    77.4,
+    1003.5
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 51.08
+  },
+  {
+   "source": "csv line 791",
+   "features": [
+    395.5,
+    3827.0,
+    31.8,
+    80.0,
+    1007.2
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 76.62
+  },
+  {
+   "source": "csv line 792",
+   "features": [
+    341.1,
+    3431.0,
+    32.4,
+    85.3,
+    1006.2
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 2,
+   "raw_hours": 98.08
+  },
+  {
+   "source": "csv line 793",
+   "features": [
+    306.8,
+    4449.0,
+    30.3,
+    87.9,
+    1004.1
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 46.34
+  },
+  {
+   "source": "csv line 794",
+   "features": [
+    251.5,
+    4521.0,
+    32.3,
+    79.2,
+    1009.8
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 38.74
+  },
+  {
+   "source": "csv line 795",
+   "features": [
+    292.9,
+    3614.0,
+    29.2,
+    76.5,
+    1003.7
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 94.1
+  },
+  {
+   "source": "csv line 796",
+   "features": [
+    235.4,
+    3319.0,
+    28.0,
+    80.4,
+    1006.2
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 48.04
+  },
+  {
+   "source": "csv line 797",
+   "features": [
+    216.0,
+    3748.0,
+    30.5,
+    78.0,
+    1006.5
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 55.02
+  },
+  {
+   "source": "csv line 798",
+   "features": [
+    301.4,
+    3938.0,
+    30.6,
+    76.7,
+    1003.5
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 85.8
+  },
+  {
+   "source": "csv line 799",
+   "features": [
+    313.5,
+    3890.0,
+    28.0,
+    80.5,
+    1006.6
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 43.48
+  },
+  {
+   "source": "csv line 800",
+   "features": [
+    354.4,
+    4443.0,
+    31.3,
+    83.3,
+    1006.1
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 70.46
+  },
+  {
+   "source": "csv line 801",
+   "features": [
+    338.1,
+    4541.0,
+    29.4,
+    76.5,
+    1004.3
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 0,
+   "raw_hours": 142.08
+  },
+  {
+   "source": "csv line 802",
+   "features": [
+    227.3,
+    4501.0,
+    32.7,
+    77.5,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 10.64
+  },
+  {
+   "source": "csv line 803",
+   "features": [
+    208.1,
+    5023.0,
+    28.8,
+    73.3,
+    1007.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 57.9
+  },
+  {
+   "source": "csv line 804",
+   "features": [
+    144.0,
+    4663.0,
+    31.1,
+    77.3,
+    1006.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 33.42
+  },
+  {
+   "source": "csv line 805",
+   "features": [
+    236.7,
+    4569.0,
+    30.9,
+    82.5,
+    1005.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 15.46
+  },
+  {
+   "source": "csv line 806",
+   "features": [
+    277.3,
+    4608.0,
+    31.5,
+    77.9,
+    1005.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 0,
+   "raw_hours": 92.28
+  },
+  {
+   "source": "csv line 807",
+   "features": [
+    242.2,
+    4135.0,
+    31.6,
+    79.1,
+    1005.4
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 38.22
+  },
+  {
+   "source": "csv line 808",
+   "features": [
+    377.4,
+    4555.0,
+    28.3,
+    73.8,
+    1004.7
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 95.12
+  },
+  {
+   "source": "csv line 809",
+   "features": [
+    249.4,
+    3873.0,
+    27.4,
+    78.2,
+    1006.3
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 0,
+   "raw_hours": 133.62
+  },
+  {
+   "source": "csv line 810",
+   "features": [
+    136.5,
+    3823.0,
+    29.9,
+    88.3,
+    1008.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 4.32
+  },
+  {
+   "source": "csv line 811",
+   "features": [
+    297.7,
+    4221.0,
+    27.7,
+    82.5,
+    1009.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 7.46
+  },
+  {
+   "source": "csv line 812",
+   "features": [
+    208.6,
+    3521.0,
+    29.2,
+    82.7,
+    1008.9
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 3.2
+  },
+  {
+   "source": "csv line 813",
+   "features": [
+    215.5,
+    3321.0,
+    28.4,
+    86.8,
+    1009.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 60.18
+  },
+  {
+   "source": "csv line 814",
+   "features": [
+    127.5,
+    4471.0,
+    31.3,
+    85.4,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 815",
+   "features": [
+    336.5,
+    4595.0,
+    29.0,
+    88.2,
+    1005.1
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 6,
+   "raw_hours": 78.78
+  },
+  {
+   "source": "csv line 816",
+   "features": [
+    276.1,
+    3224.0,
+    29.8,
+    79.7,
+    1007.9
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 63.1
+  },
+  {
+   "source": "csv line 817",
+   "features": [
+    285.5,
+    3763.0,
+    27.8,
+    78.9,
+    1008.5
+   ],
+   "csvLabel": 5,
+   "ripeness_class": 5,
+   "raw_hours": 97.56
+  },
+  {
+   "source": "csv line 818",
+   "features": [
+    110.5,
+    4423.0,
+    28.9,
+    84.7,
+    1006.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 7.08
+  },
+  {
+   "source": "csv line 819",
+   "features": [
+    200.6,
+    4355.0,
+    29.7,
+    88.3,
+    1007.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 3.36
+  },
+  {
+   "source": "csv line 820",
+   "features": [
+    232.2,
+    3992.0,
+    31.5,
+    86.8,
+    1009.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.02
+  },
+  {
+   "source": "csv line 821",
+   "features": [
+    272.7,
+    5094.0,
+    29.0,
+    88.3,
+    1007.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 1.18
+  },
+  {
+   "source": "csv line 822",
+   "features": [
+    282.5,
+    4584.0,
+    29.5,
+    86.8,
+    1006.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 16.76
+  },
+  {
+   "source": "csv line 823",
+   "features": [
+    254.9,
+    4135.0,
+    30.5,
+    77.3,
+    1009.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 5.04
+  },
+  {
+   "source": "csv line 824",
+   "features": [
+    206.1,
+    5094.0,
+    28.5,
+    74.6,
+    1009.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 29.44
+  },
+  {
+   "source": "csv line 825",
+   "features": [
+    327.9,
+    4279.0,
+    30.7,
+    78.4,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 16.86
+  },
+  {
+   "source": "csv line 826",
+   "features": [
+    304.7,
+    4708.0,
+    31.3,
+    87.8,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 2.5
+  },
+  {
+   "source": "csv line 827",
+   "features": [
+    250.0,
+    3585.0,
+    29.4,
+    83.4,
+    1007.9
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 4.02
+  },
+  {
+   "source": "csv line 828",
+   "features": [
+    369.8,
+    3810.0,
+    28.7,
+    85.2,
+    1006.5
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 38.02
+  },
+  {
+   "source": "csv line 829",
+   "features": [
+    242.1,
+    4586.0,
+    28.0,
+    84.3,
+    1004.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 29.46
+  },
+  {
+   "source": "csv line 830",
+   "features": [
+    159.1,
+    3832.0,
+    32.0,
+    88.3,
+    1007.4
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 7.74
+  },
+  {
+   "source": "csv line 831",
+   "features": [
+    133.0,
+    4589.0,
+    28.4,
+    82.2,
+    1009.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 1.72
+  },
+  {
+   "source": "csv line 832",
+   "features": [
+    261.3,
+    3492.0,
+    29.4,
+    85.4,
+    1007.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 42.26
+  },
+  {
+   "source": "csv line 833",
+   "features": [
+    177.8,
+    3531.0,
+    29.1,
+    88.3,
+    1009.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 3.34
+  },
+  {
+   "source": "csv line 834",
+   "features": [
+    187.6,
+    4708.0,
+    31.6,
+    88.3,
+    1009.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 835",
+   "features": [
+    364.5,
+    3773.0,
+    29.1,
+    86.6,
+    1007.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 17.52
+  },
+  {
+   "source": "csv line 836",
+   "features": [
+    200.8,
+    3551.0,
+    28.3,
+    88.1,
+    1006.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 22.6
+  },
+  {
+   "source": "csv line 837",
+   "features": [
+    198.9,
+    4140.0,
+    29.1,
+    82.2,
+    1006.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 10.8
+  },
+  {
+   "source": "csv line 838",
+   "features": [
+    211.4,
+    4993.0,
+    28.8,
+    83.7,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 839",
+   "features": [
+    216.5,
+    4875.0,
+    30.0,
+    81.8,
+    1006.9
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 10.84
+  },
+  {
+   "source": "csv line 840",
+   "features": [
+    283.7,
+    4366.0,
+    30.2,
+    80.4,
+    1009.5
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 2.62
+  },
+  {
+   "source": "csv line 841",
+   "features": [
+    215.7,
+    4607.0,
+    29.9,
+    84.7,
+    1009.4
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 842",
+   "features": [
+    213.7,
+    4449.0,
+    28.5,
+    81.1,
+    1008.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 8.12
+  },
+  {
+   "source": "csv line 843",
+   "features": [
+    291.3,
+    4419.0,
+    29.3,
+    88.3,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 844",
+   "features": [
+    261.7,
+    5094.0,
+    28.8,
+    84.7,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 845",
+   "features": [
+    192.6,
+    3606.0,
+    28.8,
+    88.0,
+    1008.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 3.84
+  },
+  {
+   "source": "csv line 846",
+   "features": [
+    237.3,
+    3997.0,
+    29.4,
+    83.3,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.2
+  },
+  {
+   "source": "csv line 847",
+   "features": [
+    245.0,
+    4068.0,
+    29.9,
+    79.8,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 3.7
+  },
+  {
+   "source": "csv line 848",
+   "features": [
+    323.2,
+    5094.0,
+    29.4,
+    88.3,
+    1008.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 6.98
+  },
+  {
+   "source": "csv line 849",
+   "features": [
+    223.0,
+    5094.0,
+    31.0,
+    83.0,
+    1008.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 850",
+   "features": [
+    158.2,
+    5003.0,
+    31.7,
+    86.2,
+    1006.9
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 7.3
+  },
+  {
+   "source": "csv line 851",
+   "features": [
+    171.6,
+    4223.0,
+    31.4,
+    81.4,
+    1007.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 8.86
+  },
+  {
+   "source": "csv line 852",
+   "features": [
+    203.7,
+    4367.0,
+    29.4,
+    85.8,
+    1008.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 853",
+   "features": [
+    321.8,
+    4461.0,
+    28.0,
+    87.3,
+    1009.4
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 6.36
+  },
+  {
+   "source": "csv line 854",
+   "features": [
+    328.4,
+    4460.0,
+    27.6,
+    85.5,
+    1007.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 11.96
+  },
+  {
+   "source": "csv line 855",
+   "features": [
+    199.1,
+    4909.0,
+    30.7,
+    88.3,
+    1009.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 856",
+   "features": [
+    252.5,
+    5017.0,
+    30.3,
+    83.4,
+    1008.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 857",
+   "features": [
+    261.6,
+    5064.0,
+    28.5,
+    87.2,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 858",
+   "features": [
+    252.5,
+    5094.0,
+    28.6,
+    88.3,
+    1005.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 26.5
+  },
+  {
+   "source": "csv line 859",
+   "features": [
+    367.9,
+    4483.0,
+    30.5,
+    81.7,
+    1006.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 49.54
+  },
+  {
+   "source": "csv line 860",
+   "features": [
+    267.3,
+    4177.0,
+    28.1,
+    82.8,
+    1008.4
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 861",
+   "features": [
+    212.7,
+    4351.0,
+    30.5,
+    79.1,
+    1006.9
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 36.52
+  },
+  {
+   "source": "csv line 862",
+   "features": [
+    322.7,
+    4492.0,
+    29.1,
+    84.5,
+    1008.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.86
+  },
+  {
+   "source": "csv line 863",
+   "features": [
+    294.0,
+    4617.0,
+    28.5,
+    86.5,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.08
+  },
+  {
+   "source": "csv line 864",
+   "features": [
+    365.0,
+    5063.0,
+    29.2,
+    81.2,
+    1008.9
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 0,
+   "raw_hours": 114.82
+  },
+  {
+   "source": "csv line 865",
+   "features": [
+    235.6,
+    3934.0,
+    28.8,
+    84.1,
+    1007.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 13.38
+  },
+  {
+   "source": "csv line 866",
+   "features": [
+    110.5,
+    3909.0,
+    28.4,
+    86.2,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 3.9
+  },
+  {
+   "source": "csv line 867",
+   "features": [
+    307.2,
+    4567.0,
+    29.6,
+    83.1,
+    1008.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.14
+  },
+  {
+   "source": "csv line 868",
+   "features": [
+    262.3,
+    4738.0,
+    29.5,
+    81.1,
+    1007.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 22.42
+  },
+  {
+   "source": "csv line 869",
+   "features": [
+    283.8,
+    4194.0,
+    28.5,
+    81.4,
+    1006.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 43.82
+  },
+  {
+   "source": "csv line 870",
+   "features": [
+    227.9,
+    4679.0,
+    32.1,
+    88.0,
+    1006.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 9.34
+  },
+  {
+   "source": "csv line 871",
+   "features": [
+    353.9,
+    4904.0,
+    28.6,
+    83.7,
+    1008.4
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 5.34
+  },
+  {
+   "source": "csv line 872",
+   "features": [
+    225.3,
+    5094.0,
+    30.5,
+    76.8,
+    1006.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 0,
+   "raw_hours": 109.14
+  },
+  {
+   "source": "csv line 873",
+   "features": [
+    203.2,
+    4242.0,
+    28.0,
+    81.7,
+    1009.5
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 3.36
+  },
+  {
+   "source": "csv line 874",
+   "features": [
+    278.9,
+    4709.0,
+    30.1,
+    80.6,
+    1007.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 24.5
+  },
+  {
+   "source": "csv line 875",
+   "features": [
+    302.5,
+    4639.0,
+    30.2,
+    83.9,
+    1009.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 2.2
+  },
+  {
+   "source": "csv line 876",
+   "features": [
+    353.9,
+    4660.0,
+    29.0,
+    86.8,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 14.14
+  },
+  {
+   "source": "csv line 877",
+   "features": [
+    316.9,
+    5094.0,
+    30.8,
+    88.3,
+    1009.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 4.32
+  },
+  {
+   "source": "csv line 878",
+   "features": [
+    273.8,
+    4764.0,
+    28.8,
+    88.3,
+    1009.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 879",
+   "features": [
+    198.0,
+    4555.0,
+    29.3,
+    84.2,
+    1007.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.28
+  },
+  {
+   "source": "csv line 880",
+   "features": [
+    256.8,
+    4403.0,
+    30.3,
+    83.1,
+    1009.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 881",
+   "features": [
+    122.5,
+    5094.0,
+    31.0,
+    83.6,
+    1006.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 4.42
+  },
+  {
+   "source": "csv line 882",
+   "features": [
+    194.2,
+    5094.0,
+    31.3,
+    82.0,
+    1009.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 2.82
+  },
+  {
+   "source": "csv line 883",
+   "features": [
+    149.8,
+    4558.0,
+    31.2,
+    83.1,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 884",
+   "features": [
+    157.2,
+    4469.0,
+    30.7,
+    79.9,
+    1007.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 52.2
+  },
+  {
+   "source": "csv line 885",
+   "features": [
+    286.5,
+    3460.0,
+    28.8,
+    80.0,
+    1006.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 36.68
+  },
+  {
+   "source": "csv line 886",
+   "features": [
+    173.1,
+    3876.0,
+    31.2,
+    85.5,
+    1005.4
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 14.0
+  },
+  {
+   "source": "csv line 887",
+   "features": [
+    114.4,
+    3856.0,
+    31.3,
+    74.3,
+    1008.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 10.14
+  },
+  {
+   "source": "csv line 888",
+   "features": [
+    160.9,
+    4526.0,
+    29.8,
+    83.9,
+    1007.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.82
+  },
+  {
+   "source": "csv line 889",
+   "features": [
+    258.2,
+    3556.0,
+    28.8,
+    81.5,
+    1007.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 9.94
+  },
+  {
+   "source": "csv line 890",
+   "features": [
+    260.1,
+    5094.0,
+    30.6,
+    77.3,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 10.14
+  },
+  {
+   "source": "csv line 891",
+   "features": [
+    286.1,
+    3637.0,
+    29.6,
+    80.2,
+    1009.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 21.36
+  },
+  {
+   "source": "csv line 892",
+   "features": [
+    286.9,
+    4058.0,
+    31.6,
+    82.4,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.96
+  },
+  {
+   "source": "csv line 893",
+   "features": [
+    145.9,
+    4450.0,
+    30.4,
+    79.6,
+    1009.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 3.5
+  },
+  {
+   "source": "csv line 894",
+   "features": [
+    291.0,
+    4484.0,
+    29.7,
+    76.6,
+    1009.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 27.2
+  },
+  {
+   "source": "csv line 895",
+   "features": [
+    219.1,
+    4473.0,
+    26.9,
+    80.6,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 13.26
+  },
+  {
+   "source": "csv line 896",
+   "features": [
+    258.6,
+    5021.0,
+    30.2,
+    82.7,
+    1008.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 897",
+   "features": [
+    222.2,
+    3777.0,
+    30.5,
+    77.7,
+    1005.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 18.36
+  },
+  {
+   "source": "csv line 898",
+   "features": [
+    264.4,
+    4582.0,
+    27.8,
+    88.3,
+    1006.5
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 18.22
+  },
+  {
+   "source": "csv line 899",
+   "features": [
+    250.8,
+    4120.0,
+    31.7,
+    85.0,
+    1009.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 900",
+   "features": [
+    221.1,
+    3848.0,
+    31.8,
+    78.7,
+    1009.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 2.9
+  },
+  {
+   "source": "csv line 901",
+   "features": [
+    340.0,
+    4658.0,
+    31.3,
+    82.9,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 17.76
+  },
+  {
+   "source": "csv line 902",
+   "features": [
+    210.1,
+    4608.0,
+    30.5,
+    85.4,
+    1008.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 903",
+   "features": [
+    275.9,
+    4884.0,
+    29.9,
+    80.0,
+    1008.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 5.4
+  },
+  {
+   "source": "csv line 904",
+   "features": [
+    212.9,
+    5083.0,
+    28.4,
+    79.5,
+    1008.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 0,
+   "raw_hours": 108.2
+  },
+  {
+   "source": "csv line 905",
+   "features": [
+    390.6,
+    5017.0,
+    27.7,
+    80.1,
+    1007.9
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 71.0
+  },
+  {
+   "source": "csv line 906",
+   "features": [
+    359.7,
+    4947.0,
+    31.2,
+    76.3,
+    1007.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 0,
+   "raw_hours": 146.56
+  },
+  {
+   "source": "csv line 907",
+   "features": [
+    286.9,
+    5094.0,
+    28.3,
+    87.2,
+    1007.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 1.24
+  },
+  {
+   "source": "csv line 908",
+   "features": [
+    121.4,
+    4379.0,
+    27.7,
+    82.9,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 909",
+   "features": [
+    223.2,
+    5059.0,
+    30.5,
+    71.4,
+    1008.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 70.34
+  },
+  {
+   "source": "csv line 910",
+   "features": [
+    258.2,
+    4485.0,
+    31.8,
+    74.2,
+    1009.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 7.42
+  },
+  {
+   "source": "csv line 911",
+   "features": [
+    259.3,
+    4158.0,
+    29.1,
+    86.6,
+    1007.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.02
+  },
+  {
+   "source": "csv line 912",
+   "features": [
+    284.8,
+    5047.0,
+    30.0,
+    72.2,
+    1008.4
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 42.82
+  },
+  {
+   "source": "csv line 913",
+   "features": [
+    283.2,
+    4737.0,
+    27.9,
+    82.0,
+    1008.5
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 8.18
+  },
+  {
+   "source": "csv line 914",
+   "features": [
+    227.3,
+    3941.0,
+    31.1,
+    78.2,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 1.8
+  },
+  {
+   "source": "csv line 915",
+   "features": [
+    188.1,
+    5067.0,
+    29.4,
+    78.1,
+    1008.9
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 19.38
+  },
+  {
+   "source": "csv line 916",
+   "features": [
+    125.8,
+    4518.0,
+    29.1,
+    79.2,
+    1008.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 34.04
+  },
+  {
+   "source": "csv line 917",
+   "features": [
+    361.5,
+    3501.0,
+    28.3,
+    83.4,
+    1009.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 24.52
+  },
+  {
+   "source": "csv line 918",
+   "features": [
+    157.3,
+    4291.0,
+    30.9,
+    82.7,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 919",
+   "features": [
+    333.9,
+    4403.0,
+    29.6,
+    78.7,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 34.66
+  },
+  {
+   "source": "csv line 920",
+   "features": [
+    322.8,
+    3703.0,
+    28.4,
+    77.2,
+    1008.9
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 0,
+   "raw_hours": 129.42
+  },
+  {
+   "source": "csv line 921",
+   "features": [
+    288.1,
+    4932.0,
+    31.0,
+    84.2,
+    1008.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.04
+  },
+  {
+   "source": "csv line 922",
+   "features": [
+    225.8,
+    4587.0,
+    28.6,
+    76.1,
+    1007.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 0,
+   "raw_hours": 133.22
+  },
+  {
+   "source": "csv line 923",
+   "features": [
+    240.6,
+    4231.0,
+    32.8,
+    79.6,
+    1007.4
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 60.68
+  },
+  {
+   "source": "csv line 924",
+   "features": [
+    310.5,
+    4570.0,
+    30.7,
+    79.9,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 20.6
+  },
+  {
+   "source": "csv line 925",
+   "features": [
+    301.1,
+    4824.0,
+    31.4,
+    85.3,
+    1009.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 1.34
+  },
+  {
+   "source": "csv line 926",
+   "features": [
+    203.4,
+    4006.0,
+    28.5,
+    83.8,
+    1008.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.04
+  },
+  {
+   "source": "csv line 927",
+   "features": [
+    266.8,
+    4862.0,
+    28.1,
+    78.7,
+    1009.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 39.24
+  },
+  {
+   "source": "csv line 928",
+   "features": [
+    281.0,
+    4257.0,
+    28.6,
+    82.0,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 3.72
+  },
+  {
+   "source": "csv line 929",
+   "features": [
+    334.2,
+    4451.0,
+    30.3,
+    75.0,
+    1008.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 0,
+   "raw_hours": 65.96
+  },
+  {
+   "source": "csv line 930",
+   "features": [
+    164.0,
+    4243.0,
+    29.3,
+    83.6,
+    1008.9
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 931",
+   "features": [
+    117.5,
+    4440.0,
+    30.4,
+    83.7,
+    1005.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 17.0
+  },
+  {
+   "source": "csv line 932",
+   "features": [
+    320.7,
+    3591.0,
+    30.9,
+    82.3,
+    1007.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 22.54
+  },
+  {
+   "source": "csv line 933",
+   "features": [
+    212.1,
+    3812.0,
+    31.2,
+    81.5,
+    1005.3
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 18.7
+  },
+  {
+   "source": "csv line 934",
+   "features": [
+    293.3,
+    4240.0,
+    30.1,
+    85.6,
+    1006.1
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 18.96
+  },
+  {
+   "source": "csv line 935",
+   "features": [
+    185.0,
+    4289.0,
+    28.8,
+    85.8,
+    1009.5
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 936",
+   "features": [
+    182.1,
+    4872.0,
+    27.5,
+    81.0,
+    1005.6
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 30.92
+  },
+  {
+   "source": "csv line 937",
+   "features": [
+    308.9,
+    4659.0,
+    31.2,
+    82.0,
+    1007.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 19.12
+  },
+  {
+   "source": "csv line 938",
+   "features": [
+    306.8,
+    5052.0,
+    29.9,
+    86.1,
+    1008.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.1
+  },
+  {
+   "source": "csv line 939",
+   "features": [
+    187.4,
+    4351.0,
+    29.5,
+    88.3,
+    1009.0
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 940",
+   "features": [
+    206.9,
+    5094.0,
+    28.6,
+    86.7,
+    1008.7
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 941",
+   "features": [
+    321.3,
+    5094.0,
+    30.5,
+    84.2,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 4.62
+  },
+  {
+   "source": "csv line 942",
+   "features": [
+    226.7,
+    3965.0,
+    28.3,
+    83.8,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.32
+  },
+  {
+   "source": "csv line 943",
+   "features": [
+    205.9,
+    4377.0,
+    29.8,
+    88.3,
+    1006.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 10.94
+  },
+  {
+   "source": "csv line 944",
+   "features": [
+    211.7,
+    4092.0,
+    29.0,
+    84.1,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
+   "source": "csv line 945",
+   "features": [
+    208.9,
+    3917.0,
+    29.2,
+    88.3,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 3.76
+  },
+  {
+   "source": "csv line 946",
+   "features": [
+    137.0,
+    4158.0,
+    29.9,
+    82.8,
+    1007.2
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 4.62
+  },
+  {
+   "source": "csv line 947",
+   "features": [
+    246.3,
+    4604.0,
+    27.9,
+    83.6,
+    1009.8
+   ],
+   "csvLabel": 6,
+   "ripeness_class": 6,
+   "raw_hours": 0.0
+  },
+  {
    "source": "extra 0",
    "features": [
     224.2,
@@ -6167,8 +12316,8 @@
     1003.1
    ],
    "csvLabel": null,
-   "ripeness_class": 0,
-   "raw_hours": 120.8
+   "ripeness_class": 4,
+   "raw_hours": 115.9
   },
   {
    "source": "extra 1",
@@ -6181,7 +12330,7 @@
    ],
    "csvLabel": null,
    "ripeness_class": 0,
-   "raw_hours": 166.48
+   "raw_hours": 162.92
   },
   {
    "source": "extra 2",
@@ -6193,8 +12342,8 @@
     1003.5
    ],
    "csvLabel": null,
-   "ripeness_class": 0,
-   "raw_hours": 164.14
+   "ripeness_class": 4,
+   "raw_hours": 98.4
   },
   {
    "source": "extra 3",
@@ -6207,7 +12356,7 @@
    ],
    "csvLabel": null,
    "ripeness_class": 6,
-   "raw_hours": 23.36
+   "raw_hours": 113.38
   },
   {
    "source": "extra 4",
@@ -6219,8 +12368,8 @@
     0.0
    ],
    "csvLabel": null,
-   "ripeness_class": 0,
-   "raw_hours": 164.14
+   "ripeness_class": 4,
+   "raw_hours": 98.4
   },
   {
    "source": "extra 5",
@@ -6233,7 +12382,85 @@
    ],
    "csvLabel": null,
    "ripeness_class": 0,
-   "raw_hours": 120.18
+   "raw_hours": 106.84
+  },
+  {
+   "source": "extra 6",
+   "features": [
+    127.7,
+    3363.0,
+    31.2,
+    78.2,
+    1004.3
+   ],
+   "csvLabel": null,
+   "ripeness_class": 1,
+   "raw_hours": 76.18
+  },
+  {
+   "source": "extra 7",
+   "features": [
+    297.7,
+    2379.0,
+    31.3,
+    76.4,
+    1002.6
+   ],
+   "csvLabel": null,
+   "ripeness_class": 4,
+   "raw_hours": 112.88
+  },
+  {
+   "source": "extra 8",
+   "features": [
+    210.0,
+    1500.0,
+    32.3,
+    68.0,
+    1013.0
+   ],
+   "csvLabel": null,
+   "ripeness_class": 6,
+   "raw_hours": 102.74
+  },
+  {
+   "source": "extra 9",
+   "features": [
+    223.1,
+    1490.0,
+    29.2,
+    73.5,
+    1007.1
+   ],
+   "csvLabel": null,
+   "ripeness_class": 0,
+   "raw_hours": 154.68
+  },
+  {
+   "source": "extra 10",
+   "features": [
+    388.6,
+    1786.0,
+    31.2,
+    68.7,
+    1005.1
+   ],
+   "csvLabel": null,
+   "ripeness_class": 0,
+   "raw_hours": 189.82
+  },
+  {
+   "source": "extra 11",
+   "features": [
+    163.7,
+    765.0,
+    30.6,
+    76.2,
+    1005.2
+   ],
+   "csvLabel": null,
+   "ripeness_class": 4,
+   "raw_hours": 71.86
   }
  ]
 }

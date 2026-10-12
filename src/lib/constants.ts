@@ -102,12 +102,13 @@ function preset([gas, co2, temperature, humidity, pressure]: number[]): SensorVa
 
 // "Use sample values" cycles through these. Expected model output in comments.
 export const SAMPLE_PRESETS: SensorValues[] = [
-  preset([314.6, 5000, 28.6, 75.3, 1008.5]), // Unripe
-  preset([315.3, 2520, 28.1, 76.5, 1007.2]), // Near Ripe
-  preset([332.4, 3900, 29.4, 79.7, 1005.2]), // Ripe
-  preset([335.9, 3720, 30, 80.8, 1004.6]), // Very Ripe
-  preset([312.9, 3733, 28.7, 82.1, 1005]), // Overripe
-  preset([334.1, 3614, 27.3, 84.7, 1007.2]), // Rotten
+  preset([332.7, 4450, 29.2, 77.6, 1007.1]), // Unripe
+  preset([338.4, 3950, 29.6, 79.3, 1005.7]), // Near Ripe
+  preset([296.5, 3648, 29.9, 80.3, 1005]), // Ripe
+  preset([312.6, 3580, 28.4, 82.1, 1005.4]), // Very Ripe
+  preset([291.6, 3887, 30.4, 79.4, 1004.6]), // Overripe
+  preset([304.8, 3895, 30.1, 77.9, 1005]), // Molds
+  preset([240.5, 4498, 30.1, 83.3, 1008.6]), // Rotten
 ];
 
 export const MODEL_ERROR_NOTE = "Couldn't load the prediction model. Check your connection and try again.";
