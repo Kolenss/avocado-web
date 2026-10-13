@@ -1,22 +1,27 @@
-export type RipenessLevel = "Unripe" | "Nearly Ripe" | "Ripe" | "Overripe";
+import type { SensorValues } from "@/lib/ml/predict";
 
-export interface SensorInput {
-  co2: number;
-  voc: number;
-  humidity: number;
-  temperature: number;
-}
+export type SensorKey = "gas" | "humidity" | "temperature" | "pressure" | "co2";
 
-export interface RipenessResult {
-  score: number;
-  level: RipenessLevel;
-  color: string;
-  recommendation: string;
-}
+export type InfoTopic = "terms" | "privacy" | "about";
 
 export interface Reading {
   id: string;
+  seq: number; // starts at 1, only ever increases
   timestamp: number;
-  sensors: SensorInput;
-  result: RipenessResult;
+  values: SensorValues;
+}
+
+export interface SensorMeta {
+  label: string; // Statistics / Settings
+  name: string; // Home bar and sensor pop-up
+  readingName: string; // "Current Reading" line in the pop-up
+  inputLabel: string; // Sensor Input sheet
+  unit: string;
+  model: string;
+  logo: string;
+  barMax: number;
+  min: number;
+  max: number;
+  placeholder: string;
+  decimals: number; // Statistics value / change
 }

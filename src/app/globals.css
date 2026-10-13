@@ -1,13 +1,24 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f8f9fa;
-  --foreground: #1a1a2e;
+  --avo-page: #71CE98;
+  --avo-mint: #6FCF97;
+  --avo-panel: #E9F0E2;
+  --avo-ink: #384728;
+  --avo-ink-muted: #5E6B57;
+  --avo-brand: #0B9A47;
+  --avo-brand-strong: #0C9B48;
+  --avo-up: #0A9741;
+  --avo-down: #CD160F;
+  --avo-flat: #4E4F55;
+  --avo-white: #FFFFFF;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  background: var(--avo-page);
+  color: #1E2B18;
+  margin: 0;
+  padding: 0;
 }
 
 input[type="number"]::-webkit-inner-spin-button,
@@ -19,3 +30,48 @@ input[type="number"]::-webkit-outer-spin-button {
 input[type="number"] {
   -moz-appearance: textfield;
 }
+
+/* Landing page: narrow screens shrink the phone instead of scrolling sideways. */
+@media (max-width: 460px) {
+  .landing-page { padding: 40px 16px 48px !important; }
+  .hero-title { font-size: 38px !important; }
+  .phone { zoom: 0.8; }
+}
+@media (max-width: 360px) {
+  .phone { zoom: 0.74; }
+}
+
+/* Phone screen */
+.screen button,
+.screen input {
+  font-family: inherit;
+}
+.screen button:focus-visible,
+.screen a:focus-visible,
+.screen input:focus-visible {
+  outline: 2px solid var(--avo-brand);
+  outline-offset: 2px;
+}
+.screen-scroll {
+  scrollbar-width: none;
+}
+.screen-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* Statistics tables */
+.stats .sec-h { display: flex; align-items: baseline; justify-content: space-between; padding: 0 4px; }
+.stats .sec-h h2 { margin: 0; font-size: 17px; line-height: 20px; font-weight: 400; color: var(--avo-ink); }
+.stats .sec-h span { font-size: 11.5px; color: var(--avo-ink); }
+.stats .card { margin-top: 6px; padding: 8px 14px; background: #FFFFFF; border-radius: 12px; }
+.stats .th,
+.stats .tr { display: grid; grid-template-columns: 36px 84px 80px 72px 1fr; align-items: center; }
+.stats .th { padding-bottom: 5px; border-bottom: 1.5px solid #D6D8D7; font-size: 11.5px; line-height: 13px; font-weight: 500; color: #283039; }
+.stats .tr { height: 20px; border-bottom: 1px solid #F1F3F3; font-size: 12.5px; }
+.stats .tr:last-child { border-bottom: 0; }
+.stats .c-idx { color: var(--avo-flat); }
+.stats .c-time { color: #1F2328; }
+.stats .c-val { font-size: 13.5px; font-weight: 700; color: #29311A; }
+.stats .c-up { color: var(--avo-up); font-weight: 500; }
+.stats .c-down { color: var(--avo-down); font-weight: 500; }
+.stats .c-flat { color: var(--avo-flat); font-weight: 500; }

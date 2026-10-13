@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Roboto } from "next/font/google";
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const roboto = Roboto({ weight: ["400", "500", "700"], subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Avocado - Freshness Monitor",
+  title: "Try Avocado",
   description:
-    "An intelligent freshness monitoring app using CO₂, VOC, humidity, and temperature sensors to estimate avocado ripeness.",
+    "Try the Avocado freshness app in your browser: type in sensor readings and its machine-learning model predicts ripeness and shelf life.",
 };
 
 export default function RootLayout({
@@ -17,7 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} antialiased`}>{children}</body>
+      <body className={`${roboto.className} antialiased`}>{children}</body>
     </html>
   );
 }
