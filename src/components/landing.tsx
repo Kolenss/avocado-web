@@ -69,7 +69,14 @@ export default function Landing({ children }: { children: ReactNode }) {
               ))}
             </ol>
           </div>
-          <p style={{ margin: "20px 0 0", fontSize: 13.5, lineHeight: 1.5, color: "#22331B" }}>
+          <p
+            role="note"
+            style={{ margin: "20px 0 0", width: "100%", boxSizing: "border-box", padding: "12px 14px", background: "#C3E5CB", borderRadius: 10, fontSize: 14, lineHeight: 1.5, color: "#22301C" }}
+          >
+            <strong>Disclaimer:</strong> Predictions are not guaranteed to be accurate. Our dataset is small for machine
+            learning, with only about 8,000 rows of sensor readings, so treat the results as estimates.
+          </p>
+          <p style={{ margin: "16px 0 0", fontSize: 13.5, lineHeight: 1.5, color: "#22331B" }}>
             Readings you enter are kept in this browser only. The phone app shows live data once it’s paired with
             the Avocado sensor over Bluetooth.
           </p>

@@ -59,7 +59,10 @@ export default function FreshnessReport({ prediction, values, onClose }: Freshne
             </span>
           </p>
         </div>
-        <button type="button" onClick={onClose} style={{ ...primaryButtonStyle, marginTop: 16 }}>
+        <p style={{ margin: "12px 4px 0", fontSize: 12, lineHeight: 1.4, textAlign: "center", color: "#2B3B22" }}>
+          Predictions may not be accurate. The dataset is small for machine learning (about 8,000 sensor readings).
+        </p>
+        <button type="button" onClick={onClose} style={{ ...primaryButtonStyle, marginTop: 12 }}>
           Close
         </button>
       </section>
